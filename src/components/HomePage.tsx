@@ -147,7 +147,7 @@ export default function HomePage({ subjects }: Props) {
           {[
             { icon: '🔄', problem: 'Consistency problem in studies', solution: 'Fix 30 min daily routine for each subject' },
             { icon: '📅', problem: "Can't remember History dates", solution: 'Use Story + Timeline method' },
-            { icon: '🧠', problem: "Forget what I've studied", solution: 'Revision: 1 day → 1 week → 1 month' },
+            { icon: '🧠', problem: "Forget what I've studied", solution: 'Revision: 1 day \u2192 1 week \u2192 1 month' },
             { icon: '💪', problem: 'Hard to maintain confidence', solution: 'Victory Diary + small daily goals' },
           ].map((item, i) => (
             <div key={i} className="warm-card rounded-xl p-3 flex gap-2 border-l-4 border-l-[#FF6B35]">
@@ -226,9 +226,9 @@ export default function HomePage({ subjects }: Props) {
         <div className="tips-section rounded-2xl p-4 mb-6">
           <h3 className="font-heading font-bold text-[0.92rem] text-[#27AE60] mb-3">🎯 Daily Study Tips</h3>
           {[
-            'Study 3 hours daily with focused attention — quality over quantity!',
-            'Maths must be practiced EVERY day — minimum 5 problems.',
-            'Science diagrams should be drawn and labeled — 4 marks guaranteed!',
+            'Study 3 hours daily with focused attention \u2014 quality over quantity!',
+            'Maths must be practiced EVERY day \u2014 minimum 5 problems.',
+            'Science diagrams should be drawn and labeled \u2014 4 marks guaranteed!',
             'Weekly revision: What you studied this week, revise on Sunday.',
           ].map((tip, i) => (
             <div key={i} className="flex gap-2 mb-1.5 items-start text-[0.84rem]">
@@ -246,7 +246,7 @@ export default function HomePage({ subjects }: Props) {
           <h3 className="font-heading text-[#FFB347] text-xl font-bold mb-2">✨ Remember This ✨</h3>
           <p className="text-white/80 text-[0.86rem] leading-relaxed">
             The difference between 60% and 85% is just <strong className="text-[#FFB347]">one good habit</strong>.<br />
-            3 hours focused study + weekly revision + positive attitude —<br />
+            3 hours focused study + weekly revision + positive attitude \u2014<br />
             <strong className="text-[#FFB347]">these three things will get you to 85%!</strong>
           </p>
           <div className="inline-block mt-4 bg-[rgba(255,179,71,0.15)] border border-[rgba(255,179,71,0.4)] text-[#FFB347] px-4 py-1.5 rounded-full font-heading font-semibold text-sm">
@@ -262,12 +262,12 @@ export default function HomePage({ subjects }: Props) {
         <div className="warm-card rounded-2xl p-4 mb-6">
           <ul className="space-y-1.5">
             {[
-              'First 15 minutes — read the question paper carefully. No rush!',
-              'Solve easy questions first — builds confidence, saves time',
-              'Maths numericals — write steps clearly, always mention units',
-              'Science Biology — labeled diagrams = guaranteed marks',
-              'SST long answers — Introduction + 4-5 points + Conclusion',
-              "Don't know the answer? — Never leave it blank! Write what you know",
+              'First 15 minutes \u2014 read the question paper carefully. No rush!',
+              'Solve easy questions first \u2014 builds confidence, saves time',
+              'Maths numericals \u2014 write steps clearly, always mention units',
+              'Science Biology \u2014 labeled diagrams = guaranteed marks',
+              'SST long answers \u2014 Introduction + 4-5 points + Conclusion',
+              "Don't know the answer? \u2014 Never leave it blank! Write what you know",
               '3 hours = 15 min reading + 2:15 writing + 15 min revision',
             ].map((tip, i) => (
               <li key={i} className="flex gap-2 items-start text-[0.84rem] border-b border-dashed border-[#FFE0CC] last:border-0 pb-1.5">
@@ -318,7 +318,7 @@ export default function HomePage({ subjects }: Props) {
                   <Bookmark className="w-4 h-4 text-[#FF6B35] shrink-0" />
                   <div>
                     <p className="text-sm font-medium">{r.title}</p>
-                    <p className="text-xs text-gray-500">{r.subject}{r.section ? ` › ${r.section}` : ''}</p>
+                    <p className="text-xs text-gray-500">{r.subject}{r.section ? ` \u203A ${r.section}` : ''}</p>
                   </div>
                 </Link>
               )) : query.length >= 2 ? (
