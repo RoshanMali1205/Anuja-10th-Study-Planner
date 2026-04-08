@@ -1,0 +1,657 @@
+{
+  "id": "social",
+  "name": "Social Science",
+  "icon": "🌍",
+  "color": "#E65100",
+  "sections": [
+    {
+      "id": "social-history",
+      "title": "History",
+      "chapters": [
+        {
+          "id": "social-hist-ch1",
+          "number": 1,
+          "title": "The Rise of Nationalism in Europe",
+          "topics": [
+            "French Revolution and the idea of the Nation",
+            "Making of Nationalism in Europe",
+            "The Age of Revolutions: 1830-1848",
+            "The Making of Germany and Italy",
+            "Unification of Germany under Bismarck",
+            "Unification of Italy under Mazzini, Garibaldi, Cavour",
+            "Visualising the Nation — Female allegories",
+            "Nationalism and Imperialism"
+          ],
+          "dates": [
+            "1789 — French Revolution",
+            "1804 — Napoleonic Code introduced",
+            "1815 — Congress of Vienna — Treaty of Vienna",
+            "1821 — Greek War of Independence begins",
+            "1830 — July Revolution in France",
+            "1848 — Revolutions across Europe; Frankfurt Parliament",
+            "1859-1861 — Unification of Italy",
+            "1866-1871 — Unification of Germany (Bismarck, 3 wars)",
+            "1871 — German Empire proclaimed at Versailles"
+          ],
+          "timeline": [
+            "1789: French Revolution → Idea of nationalism born",
+            "1804-1815: Napoleon's conquests spread nationalism",
+            "1815: Congress of Vienna → Restoration of old order",
+            "1830-1848: Liberal revolutions across Europe",
+            "1848: Frankfurt Parliament — attempt at German unification fails",
+            "1861: Italy unified (Victor Emmanuel II)",
+            "1871: Germany unified under Kaiser William I (Bismarck's policy of Blood and Iron)"
+          ],
+          "keywords": ["Nationalism", "Nation-state", "Absolutism", "Liberalism", "Conservatism", "Allegory", "Romanticism", "Plebiscite"],
+          "importantQuestions": [
+            "How did the French Revolution create a sense of collective identity?",
+            "Explain the role of Bismarck in the unification of Germany.",
+            "Describe the process of Italian unification.",
+            "What was the role of culture and language in creating national feelings in Europe?",
+            "What was the Congress of Vienna? What were its decisions?"
+          ],
+          "tips": [
+            "Germany: Bismarck (Blood & Iron policy, 3 wars) | Italy: Mazzini (Young Italy), Garibaldi (volunteers), Cavour (diplomacy)",
+            "Allegory figures: Marianne = France, Germania = Germany",
+            "Dates yaad karne ke liye timeline chart banao aur daily revise karo",
+            "Napoleon Civil Code = Equality before law, abolition of feudalism — iske effects important hain"
+          ]
+        },
+        {
+          "id": "social-hist-ch2",
+          "number": 2,
+          "title": "Nationalism in India",
+          "topics": [
+            "First World War, Khilafat, and Non-Cooperation",
+            "Satyagraha — Gandhiji's method",
+            "Rowlatt Act and Jallianwala Bagh",
+            "Non-Cooperation Movement (1920-22)",
+            "Civil Disobedience Movement (1930-34)",
+            "Salt March / Dandi March",
+            "Sense of collective belonging — Symbols, Icons, Songs",
+            "Participation of different social groups"
+          ],
+          "dates": [
+            "1919 — Rowlatt Act; Jallianwala Bagh Massacre (13 April)",
+            "1920 — Non-Cooperation Movement launched",
+            "1922 — Chauri Chaura incident; NCM called off",
+            "1929 — Lahore Session — Purna Swaraj declared (Dec 1929)",
+            "1930 — Salt March / Dandi March (12 March); CDM begins",
+            "1931 — Gandhi-Irwin Pact",
+            "1932 — Poona Pact (Gandhi-Ambedkar)",
+            "1942 — Quit India Movement"
+          ],
+          "keywords": ["Satyagraha", "Swadeshi", "Boycott", "Non-Cooperation", "Civil Disobedience", "Purna Swaraj", "Khilafat", "Swaraj"],
+          "importantQuestions": [
+            "Why was the Non-Cooperation Movement launched? Why was it called off?",
+            "Describe the Salt March and its significance.",
+            "How did different social groups participate in the Civil Disobedience Movement?",
+            "What was the Rowlatt Act? Why did Indians oppose it?",
+            "Explain the idea of Satyagraha as understood by Gandhiji."
+          ],
+          "tips": [
+            "NCM (1920-22) aur CDM (1930-34) ke differences clearly yaad karo — methods alag the",
+            "Chauri Chaura = violence → Gandhi ne NCM wapas liya — cause and effect yaad rakho",
+            "Salt March: Sabarmati → Dandi, 240 miles, 24 days — yeh facts important hain",
+            "Different groups ka participation: Peasants, Workers, Tribals, Women — sab ka role alag tha"
+          ]
+        },
+        {
+          "id": "social-hist-ch3",
+          "number": 3,
+          "title": "The Making of a Global World",
+          "topics": [
+            "The Pre-modern World — Silk Routes",
+            "The Nineteenth Century (1815-1914) — Trade, Migration, Indentured Labour",
+            "Colonialism and Global Economy",
+            "The Inter-War Economy",
+            "The Great Depression",
+            "Post-War settlements — Bretton Woods, IMF, World Bank",
+            "Globalisation"
+          ],
+          "dates": [
+            "1885 — Big European powers met in Berlin to carve up Africa",
+            "1914-1918 — World War I",
+            "1929 — Great Depression begins (Wall Street crash)",
+            "1939-1945 — World War II",
+            "1944 — Bretton Woods Conference → IMF and World Bank formed",
+            "1947 — Independence of India"
+          ],
+          "keywords": ["Globalisation", "Silk Routes", "Indentured labour", "Bretton Woods", "IMF", "World Bank", "Great Depression", "Trade surplus", "Tariffs", "MNCs"],
+          "importantQuestions": [
+            "What was the Great Depression? What were its causes and effects?",
+            "What were Silk Routes? How did they link the world?",
+            "What was Bretton Woods Agreement? What institutions were created?",
+            "What was indentured labour? Why was it compared with slavery?",
+            "How has globalisation affected the world in the modern era?"
+          ],
+          "tips": [
+            "Great Depression: 1929, USA → spread worldwide; Causes: Overproduction, Less consumption, Stock market crash",
+            "Bretton Woods → IMF (monetary stability) + World Bank (reconstruction/development)",
+            "Silk Routes: Trade + Culture + Religion sab exchange hua — not just silk",
+            "Indentured labour = girmitiya — Indians to Caribbean, Fiji, etc."
+          ]
+        },
+        {
+          "id": "social-hist-ch4",
+          "number": 4,
+          "title": "The Age of Industrialization",
+          "topics": [
+            "Before the Industrial Revolution — Proto-industrialisation",
+            "Hand labour and Steam power",
+            "Industrialisation in the colonies (India)",
+            "Factories come up — first in England",
+            "Indian textiles — decline and deindustrialisation",
+            "The peculiarities of Industrial growth in India",
+            "Small-scale industries in India",
+            "Market for goods — advertising and labels"
+          ],
+          "dates": [
+            "1730s — England: Earliest factories",
+            "1760s-1840s — Industrial Revolution in England",
+            "1854 — First cotton mill in Bombay",
+            "1855 — First jute mill in Bengal",
+            "1900s — Swadeshi movement promotes Indian goods"
+          ],
+          "keywords": ["Proto-industrialisation", "Spinning Jenny", "Cotton mill", "Guild", "Stapler", "Jobber", "Deindustrialisation", "Swadeshi"],
+          "importantQuestions": [
+            "Why was the cotton textile industry struggling in India during colonial rule?",
+            "What was proto-industrialisation?",
+            "How did Indian textiles decline under British rule?",
+            "What role did advertisements play in creating a market for goods?",
+            "Who were jobbers? What role did they play in early factories?"
+          ],
+          "tips": [
+            "Proto-industrialisation = before factory era, production in homes for international market",
+            "Indian textiles ka decline = British ne raw cotton export karaya aur finished goods India mein bheche",
+            "Jobber = middleman who recruited workers in early factories",
+            "Advertisements mein Indian labels — Swadeshi spirit dikhate the"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "social-geography",
+      "title": "Geography",
+      "chapters": [
+        {
+          "id": "social-geo-ch1",
+          "number": 1,
+          "title": "Resources and Development",
+          "topics": [
+            "Types of resources: Natural, Human-made, Human",
+            "Classification: Renewable vs Non-renewable",
+            "Development of resources — Planning in India",
+            "Land resources — Land use pattern",
+            "Land degradation and conservation",
+            "Soil as a resource — Types of soil in India",
+            "Soil erosion and conservation"
+          ],
+          "keywords": ["Resource", "Renewable", "Non-renewable", "National resources", "Sustainable development", "Land degradation", "Alluvial soil", "Black soil", "Laterite soil", "Contour ploughing", "Terrace farming"],
+          "importantQuestions": [
+            "What is resource planning? Why is it essential for India?",
+            "Name the different types of soil found in India. Describe any two.",
+            "What are the methods of soil conservation?",
+            "Explain the classification of resources on different bases.",
+            "What is land degradation? What are the ways to solve this problem?"
+          ],
+          "tips": [
+            "Soil types: Alluvial (most fertile, Indo-Gangetic), Black (Deccan, cotton), Red (less fertile, iron), Laterite (heavy rain areas)",
+            "Soil conservation methods: Contour ploughing, Terrace farming, Shelter belts, Strip cropping",
+            "Resources ke 3 stages: Identification → Planning → Implementation",
+            "Sustainable development ka concept important hai — future generations ke liye bhi resources bachao"
+          ]
+        },
+        {
+          "id": "social-geo-ch2",
+          "number": 2,
+          "title": "Forest and Wildlife Resources",
+          "topics": [
+            "Biodiversity and its importance",
+            "Flora and Fauna in India",
+            "Causes of depletion: Deforestation, Habitat destruction, Hunting, Pollution",
+            "Indian Wildlife Protection Act, 1972",
+            "Conservation efforts: National Parks, Wildlife Sanctuaries, Biosphere Reserves",
+            "Community and Conservation — Chipko Movement, Joint Forest Management"
+          ],
+          "keywords": ["Biodiversity", "Endangered species", "Extinct", "National Park", "Wildlife Sanctuary", "Biosphere Reserve", "Chipko Movement", "JFM"],
+          "importantQuestions": [
+            "Why has biodiversity decreased rapidly? Suggest measures to conserve it.",
+            "What is the difference between a National Park, Wildlife Sanctuary, and Biosphere Reserve?",
+            "Describe the role of communities in forest and wildlife conservation.",
+            "What was the Chipko Movement? What was its significance?",
+            "How has Wildlife Protection Act 1972 helped conservation?"
+          ],
+          "tips": [
+            "National Park = strictest protection, no human activity | Wildlife Sanctuary = some activities allowed | Biosphere Reserve = conservation + development both",
+            "Chipko Movement 1970s = Sunderlal Bahuguna + villagers hugging trees to prevent deforestation",
+            "Species categories: Normal → Vulnerable → Endangered → Extinct — sequence yaad karo"
+          ]
+        },
+        {
+          "id": "social-geo-ch3",
+          "number": 3,
+          "title": "Water Resources",
+          "topics": [
+            "Water scarcity and need for conservation",
+            "Multi-purpose river valley projects — dams",
+            "Rainwater harvesting",
+            "Major dams in India",
+            "Traditional water harvesting methods",
+            "Groundwater management"
+          ],
+          "keywords": ["Water scarcity", "Multi-purpose project", "Dam", "Rainwater harvesting", "Groundwater", "Bamboo drip irrigation", "Tankas", "Johads"],
+          "importantQuestions": [
+            "Why are multi-purpose river valley projects called the 'temples of modern India'?",
+            "What are the advantages and disadvantages of multi-purpose projects?",
+            "Describe different traditional methods of rainwater harvesting in India.",
+            "Why is water scarcity increasing in India? Suggest solutions.",
+            "What is rainwater harvesting? How is it practiced in Rajasthan?"
+          ],
+          "tips": [
+            "Dams: Bhakra Nangal (Sutlej), Hirakud (Mahanadi), Nagarjuna Sagar (Krishna), Tehri (Bhagirathi)",
+            "Criticism of dams: displacement, deforestation, earthquake risk, unequal water distribution",
+            "Traditional methods: Rajasthan = Tankas, Khadins; Meghalaya = Bamboo drip irrigation; Tamil Nadu = Eris (tanks)",
+            "Rainwater harvesting reduces groundwater depletion — yeh modern importance hai"
+          ]
+        },
+        {
+          "id": "social-geo-ch4",
+          "number": 4,
+          "title": "Agriculture",
+          "topics": [
+            "Types of farming: Subsistence, Commercial",
+            "Cropping pattern — Rabi, Kharif, Zaid",
+            "Major crops: Rice, Wheat, Millets, Maize, Sugarcane, Tea, Coffee, Cotton, Jute, Rubber",
+            "Technological and Institutional reforms",
+            "Green Revolution, White Revolution",
+            "Impact of globalisation on agriculture",
+            "Food Security — Minimum Support Price"
+          ],
+          "keywords": ["Subsistence farming", "Commercial farming", "Rabi", "Kharif", "Zaid", "Green Revolution", "White Revolution", "MSP", "Plantation"],
+          "importantQuestions": [
+            "Distinguish between Rabi and Kharif crops with examples.",
+            "Why is agriculture important for India's economy?",
+            "What are the conditions required for growing rice and wheat?",
+            "What were the impacts of Green Revolution?",
+            "Explain the different types of farming practiced in India."
+          ],
+          "tips": [
+            "Rabi: Oct-March (Wheat, Mustard, Peas) | Kharif: June-Sept (Rice, Maize, Cotton, Jute) | Zaid: March-June (Watermelon, Cucumber)",
+            "Rice = high rainfall/irrigation, alluvial soil | Wheat = cool climate, well-drained loamy soil",
+            "Green Revolution = 1960s, seeds + fertilizers, Punjab-Haryana | White Revolution = Dairy, V. Kurien",
+            "Tea = Assam, Darjeeling, Nilgiris | Coffee = Karnataka (Coorg)"
+          ]
+        },
+        {
+          "id": "social-geo-ch5",
+          "number": 5,
+          "title": "Minerals and Energy Resources",
+          "topics": [
+            "What is a mineral?",
+            "Types: Metallic (Ferrous, Non-ferrous), Non-metallic",
+            "Distribution of minerals in India",
+            "Iron ore, Manganese, Copper, Bauxite, Mica, Limestone",
+            "Conventional energy sources: Coal, Petroleum, Natural Gas, Hydel",
+            "Non-conventional energy: Solar, Wind, Biogas, Tidal, Geothermal, Nuclear",
+            "Conservation of minerals and energy"
+          ],
+          "keywords": ["Mineral", "Ore", "Ferrous", "Non-ferrous", "Conventional energy", "Non-conventional energy", "Solar energy", "Wind energy", "Biogas"],
+          "importantQuestions": [
+            "Why do we need to conserve mineral resources? Suggest methods.",
+            "Describe the distribution of iron ore in India.",
+            "Distinguish between conventional and non-conventional sources of energy.",
+            "What is the importance of energy resources in economic development?",
+            "Why are non-conventional energy sources important for India?"
+          ],
+          "tips": [
+            "Iron ore belts: Odisha-Jharkhand, Durg-Bastar-Chandrapur, Bellary-Chitradurga-Tumkur, Goa",
+            "Coal: Raniganj, Jharia, Bokaro (Jharkhand-Bengal) | Petroleum: Mumbai High (offshore), Digboi (Assam)",
+            "Mica: Jharkhand, Bihar, Rajasthan — India = world leader",
+            "Non-conventional important kyunki: Renewable, Less pollution, Long-term sustainable"
+          ]
+        },
+        {
+          "id": "social-geo-ch6",
+          "number": 6,
+          "title": "Manufacturing Industries",
+          "topics": [
+            "Importance of manufacturing",
+            "Classification of industries",
+            "Agro-based: Cotton textile, Jute, Sugar",
+            "Mineral-based: Iron & Steel, Cement, Automobile",
+            "Industrial pollution and environmental degradation",
+            "NTPC, BHEL — public sector",
+            "Factors affecting location of industries"
+          ],
+          "keywords": ["Manufacturing", "Agro-based industry", "Mineral-based", "Public sector", "Private sector", "Cotton textile", "Iron and Steel", "Industrial pollution"],
+          "importantQuestions": [
+            "Why is the manufacturing sector important for India's development?",
+            "Describe the distribution of cotton textile industry in India.",
+            "What are the factors affecting the location of an industry?",
+            "How does industrial pollution degrade the environment? Suggest measures.",
+            "Why is the iron and steel industry called the backbone of modern industry?"
+          ],
+          "tips": [
+            "Cotton textile: Mumbai (Cottonopolis of India), Ahmedabad (Manchester of India)",
+            "Iron & Steel: TISCO (Jamshedpur), SAIL plants (Bhilai, Durgapur, Rourkela, Bokaro)",
+            "Sugar industry — Maharashtra (#1), UP, Karnataka — close to sugarcane growing areas",
+            "Location factors: Raw material, Market, Transport, Labour, Power, Water, Government policies"
+          ]
+        },
+        {
+          "id": "social-geo-ch7",
+          "number": 7,
+          "title": "Lifelines of National Economy",
+          "topics": [
+            "Transport: Roadways, Railways, Pipelines, Waterways, Airways",
+            "Golden Quadrilateral and National Highways",
+            "Indian Railways — zones and importance",
+            "Waterways: Inland and Oceanic",
+            "Airways: Domestic and International",
+            "Communication: Personal and Mass communication",
+            "International trade — Trade balance",
+            "Tourism as a trade"
+          ],
+          "keywords": ["Golden Quadrilateral", "National Highway", "Indian Railways", "Inland Waterway", "NHHAI", "Balance of trade", "Export", "Import"],
+          "importantQuestions": [
+            "Why are the roadways more important than railways in India?",
+            "What is the Golden Quadrilateral? Name the cities it connects.",
+            "Why are means of transport and communication called the lifelines of a nation?",
+            "Describe the major sea ports of India.",
+            "What is the importance of tourism in India's economy?"
+          ],
+          "tips": [
+            "Golden Quadrilateral: Delhi-Mumbai-Chennai-Kolkata (and back to Delhi) = Super Expressway",
+            "National Waterways: NW1 = Ganga (Allahabad-Haldia), NW2 = Brahmaputra (Sadiya-Dhubri), NW3 = Kerala backwaters",
+            "Railways = most important for freight and passenger transport in India",
+            "Major Ports: Mumbai, Kandla, Kochi, Chennai, Vishakhapatnam, Kolkata-Haldia, Paradwip, Tuticorin, Mangalore"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "social-civics",
+      "title": "Civics",
+      "chapters": [
+        {
+          "id": "social-civ-ch1",
+          "number": 1,
+          "title": "Power Sharing",
+          "topics": [
+            "Belgium and Sri Lanka — case studies",
+            "Majoritarianism in Sri Lanka",
+            "Accommodation in Belgium",
+            "Why power sharing is desirable?",
+            "Forms of power sharing: Horizontal, Vertical, Among social groups, Among political parties"
+          ],
+          "keywords": ["Majoritarianism", "Accommodation", "Community Government", "Horizontal distribution", "Vertical distribution", "Federal", "Unitary"],
+          "importantQuestions": [
+            "Compare the power sharing arrangements in Belgium and Sri Lanka.",
+            "What are the different forms of power sharing in modern democracies?",
+            "Why is power sharing desirable? Give two reasons.",
+            "What was the Majoritarian policy followed in Sri Lanka?",
+            "Describe the community government system in Belgium."
+          ],
+          "tips": [
+            "Belgium: 59% Dutch, 40% French, 1% German — phir bhi accommodation (power sharing)",
+            "Sri Lanka: Sinhala majority → Majoritarianism → Civil war",
+            "Power sharing = prudential (practical — avoids conflict) + moral (right thing to do)",
+            "4 forms: Horizontal (legislature, executive, judiciary), Vertical (central, state, local), Social groups, Political parties/alliances"
+          ]
+        },
+        {
+          "id": "social-civ-ch2",
+          "number": 2,
+          "title": "Federalism",
+          "topics": [
+            "What is Federalism?",
+            "Union List, State List, Concurrent List",
+            "How is Federalism practiced in India?",
+            "Linguistic states",
+            "Language policy",
+            "Centre-State relations",
+            "Decentralisation in India — Panchayati Raj, Municipalities"
+          ],
+          "keywords": ["Federalism", "Union List", "State List", "Concurrent List", "Residuary", "Panchayati Raj", "Municipality", "Coalition", "Decentralisation"],
+          "importantQuestions": [
+            "What are the key features of federalism?",
+            "Explain the three-fold distribution of legislative powers (Union, State, Concurrent List).",
+            "How has the creation of linguistic states strengthened federalism in India?",
+            "Describe the three-tier structure of Panchayati Raj.",
+            "What is decentralisation? Why is it important in a democracy?"
+          ],
+          "tips": [
+            "Union List: Defence, Banking, Foreign affairs (97) | State List: Police, Agriculture, Health (66) | Concurrent: Education, Forest, Marriage (47)",
+            "Panchayati Raj: Gram Panchayat → Panchayat Samiti (Block) → Zila Parishad (District)",
+            "1/3 seats reserved for women in local bodies (73rd Amendment 1992)",
+            "Coalition government = multiple parties form government together — important for federalism"
+          ]
+        },
+        {
+          "id": "social-civ-ch3",
+          "number": 3,
+          "title": "Democracy and Diversity",
+          "topics": [
+            "Social differences and social division",
+            "Origin of social differences",
+            "Overlapping and Cross-cutting differences",
+            "Politics of social division",
+            "Case studies: Mexico Olympics, Northern Ireland, Yugoslavia"
+          ],
+          "keywords": ["Social division", "Social difference", "Overlapping differences", "Cross-cutting differences", "Homogeneous society", "Migrants"],
+          "importantQuestions": [
+            "What are overlapping and cross-cutting social differences? Explain with examples.",
+            "How do social divisions affect politics? Explain.",
+            "Describe the 1968 Mexico Olympics incident involving African-American athletes.",
+            "What is the difference between a homogeneous and heterogeneous society?"
+          ],
+          "tips": [
+            "Overlapping differences = jab ek hi group mein saari disadvantages ho (e.g., Dalits in India — poor + low caste)",
+            "Cross-cutting = different social categories overlap (e.g., Netherlands — Catholics are both rich and poor)",
+            "Mexico Olympics 1968: Tommie Smith and John Carlos raised black-gloved fists — Civil Rights protest",
+            "Social division + politics can be positive OR negative — depends on how leaders handle it"
+          ]
+        },
+        {
+          "id": "social-civ-ch4",
+          "number": 4,
+          "title": "Gender, Religion and Caste",
+          "topics": [
+            "Gender and politics — Women's representation",
+            "Religion, Communalism, and Politics",
+            "Caste and Politics — Caste inequality",
+            "Caste in politics vs Politics in caste"
+          ],
+          "keywords": ["Feminism", "Patriarchy", "Communalism", "Secularism", "Caste system", "OBC", "Women's reservation"],
+          "importantQuestions": [
+            "How is communalism a threat to Indian democracy?",
+            "Explain the role of caste in Indian politics.",
+            "Why is women's political representation low in India? What steps have been taken?",
+            "What is secularism? How does the Indian Constitution ensure it?",
+            "Differentiate between 'caste in politics' and 'politics in caste'."
+          ],
+          "tips": [
+            "Women's representation: Lok Sabha mein only ~14% — much lower than world average",
+            "Communalism = using religion for political mobilization → very dangerous for democracy",
+            "Indian secularism: No state religion, Freedom to practice any religion, No discrimination based on religion",
+            "Caste in politics = caste identities used in elections; Politics in caste = political consciousness in caste groups"
+          ]
+        },
+        {
+          "id": "social-civ-ch5",
+          "number": 5,
+          "title": "Outcomes of Democracy",
+          "topics": [
+            "How do we assess democracy's outcomes?",
+            "Accountable, responsive, and legitimate government",
+            "Economic growth and development in democracy",
+            "Reduction of inequality and poverty",
+            "Accommodation of social diversity",
+            "Dignity and freedom of citizens"
+          ],
+          "keywords": ["Transparency", "Accountability", "Legitimate", "Economic growth", "Social diversity", "Dignity", "Rule of law"],
+          "importantQuestions": [
+            "Is democracy better than dictatorship? Give arguments.",
+            "What outcomes can we expect from democracy?",
+            "Does democracy lead to economic growth? Explain.",
+            "How does democracy accommodate social diversity?",
+            "What is the most basic outcome of democracy?"
+          ],
+          "tips": [
+            "Democracy may not be fastest in economic growth BUT it ensures dignity, equality, and freedom",
+            "Most basic outcome = Accountable + Transparent + Legitimate government",
+            "Democracy handles conflicts peacefully — dictatorships suppress them",
+            "Social diversity accommodation = majority rule + minority rights — both important"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "social-economics",
+      "title": "Economics",
+      "chapters": [
+        {
+          "id": "social-eco-ch1",
+          "number": 1,
+          "title": "Development",
+          "topics": [
+            "What is development? Different perspectives",
+            "Income and other criteria for development",
+            "National income and Per Capita Income",
+            "Comparison of countries — HDI",
+            "Public facilities and development",
+            "Sustainability of development"
+          ],
+          "keywords": ["Development", "Per Capita Income", "HDI", "Human Development Index", "Literacy rate", "IMR", "Net Attendance Ratio", "Sustainability", "BMI"],
+          "importantQuestions": [
+            "Why is per capita income not a sufficient criterion for measuring development?",
+            "What is HDI? What criteria does it use?",
+            "Give examples to show that development goals of different people can be conflicting.",
+            "Why is sustainable development important?",
+            "Compare development of India, Sri Lanka, and Pakistan using HDI criteria."
+          ],
+          "tips": [
+            "HDI criteria: Per Capita Income + Education (Literacy) + Health (Life expectancy) — teeno yaad rakho",
+            "Per Capita Income = Total National Income / Total Population",
+            "India = Developing country, Sri Lanka has better HDI than India (despite lower income)",
+            "Sustainability = meeting present needs without compromising future generations"
+          ]
+        },
+        {
+          "id": "social-eco-ch2",
+          "number": 2,
+          "title": "Sectors of the Indian Economy",
+          "topics": [
+            "Primary, Secondary, and Tertiary sectors",
+            "Comparing sectors — GDP contribution",
+            "Historical changes in sectors",
+            "Where are most people employed?",
+            "Organised and Unorganised sectors",
+            "Public and Private sectors",
+            "NREGA (MGNREGA) — 100 days employment guarantee"
+          ],
+          "keywords": ["Primary sector", "Secondary sector", "Tertiary sector", "GDP", "Organised sector", "Unorganised sector", "Public sector", "Private sector", "MGNREGA"],
+          "importantQuestions": [
+            "Distinguish between Primary, Secondary, and Tertiary sectors with examples.",
+            "Why is the tertiary sector becoming important in India?",
+            "What is the difference between organised and unorganised sectors?",
+            "What is MGNREGA? What is its significance?",
+            "Why does Indian economy show disguised unemployment in agriculture?"
+          ],
+          "tips": [
+            "Primary: Agriculture, Mining | Secondary: Manufacturing, Construction | Tertiary: Services, Banking, IT",
+            "In India: Most employed in Primary, but maximum GDP from Tertiary — yeh contradiction important",
+            "MGNREGA: 100 days guaranteed work, ₹200/day min wage, rural areas",
+            "Disguised unemployment = zyaada log kaam pe lage hain but output nahi badhta (agriculture mein common)"
+          ]
+        },
+        {
+          "id": "social-eco-ch3",
+          "number": 3,
+          "title": "Money and Credit",
+          "topics": [
+            "Money as a medium of exchange",
+            "Modern forms of money — Currency, Deposits",
+            "Loan activities of banks",
+            "Terms of credit — Interest rate, Collateral, Documentation",
+            "Formal and Informal credit sources",
+            "Self-Help Groups (SHGs)"
+          ],
+          "keywords": ["Barter system", "Medium of exchange", "Demand deposit", "Collateral", "Terms of credit", "Formal sector", "Informal sector", "SHG", "RBI"],
+          "importantQuestions": [
+            "Why is money called a 'medium of exchange'?",
+            "What is collateral? Why is it required for a loan?",
+            "Explain the difference between formal and informal sources of credit.",
+            "What are Self-Help Groups? How do they help the poor?",
+            "Why do we need to expand formal sources of credit in India?"
+          ],
+          "tips": [
+            "Formal sources: Banks, Cooperatives (regulated by RBI) | Informal: Moneylenders, Traders, Friends (NOT regulated)",
+            "Collateral = guarantee/security for loan (land, property, insurance, gold etc.)",
+            "SHGs: 15-20 women group → save money → give internal loans → lower interest than moneylenders",
+            "RBI supervises formal sector only — informal sector mein regulation nahi hai, exploitation hoti hai"
+          ]
+        },
+        {
+          "id": "social-eco-ch4",
+          "number": 4,
+          "title": "Globalisation and the Indian Economy",
+          "topics": [
+            "What is globalisation?",
+            "Factors enabling globalisation: Technology, Trade liberalisation",
+            "World Trade Organisation (WTO)",
+            "Impact of globalisation on India",
+            "Fair globalisation — creating opportunities for all",
+            "MNCs and their strategies",
+            "Special Economic Zones (SEZ)"
+          ],
+          "keywords": ["Globalisation", "Liberalisation", "MNC", "WTO", "SEZ", "Foreign investment", "Trade barrier", "Tax on imports"],
+          "importantQuestions": [
+            "What is globalisation? What are the factors that have enabled it?",
+            "How has globalisation affected Indian economy? (Positive and Negative)",
+            "What are MNCs? How do they spread their production?",
+            "What is the role of WTO in globalisation?",
+            "What is the impact of globalisation on small producers in India?"
+          ],
+          "tips": [
+            "MNCs invest in other countries for: Cheap labour, Proximity to market, Lower costs, Tax benefits",
+            "Globalisation = integration of markets of different countries (trade + investment + technology)",
+            "1991: India opened its economy (LPG reforms — Liberalisation, Privatisation, Globalisation)",
+            "WTO ke rules mostly developed countries ke favour mein — developing countries ka disadvantage",
+            "SEZ = Special Economic Zones — tax benefits for MNCs to set up factories"
+          ]
+        },
+        {
+          "id": "social-eco-ch5",
+          "number": 5,
+          "title": "Consumer Rights",
+          "topics": [
+            "The consumer in the marketplace",
+            "Why consumer protection is needed",
+            "Consumer Protection Act 1986 (Updated 2019)",
+            "Consumer rights: Right to safety, Right to information, Right to choose, Right to seek redressal, Right to represent",
+            "Consumer courts — District, State, National",
+            "ISI, Agmark, Hallmark — quality marks",
+            "RTI — Right to Information Act 2005"
+          ],
+          "keywords": ["Consumer rights", "COPRA", "RTI", "ISI mark", "Agmark", "Hallmark", "MRP", "Adulteration", "Consumer forum"],
+          "importantQuestions": [
+            "What are the various rights of consumers under Consumer Protection Act?",
+            "Explain the three-tier quasi-judicial system for consumer redressal.",
+            "Why is RTI Act 2005 important for consumers?",
+            "What are ISI, Agmark, and Hallmark? Where are they used?",
+            "How can a consumer file a complaint? What details are required?"
+          ],
+          "tips": [
+            "Consumer Rights: Safety, Information, Choice, Redressal, Representation — SICRR se yaad karo",
+            "Courts: District (< ₹1 crore), State (₹1-10 crore), National (> ₹10 crore)",
+            "ISI = industrial products, Agmark = agricultural products, Hallmark = gold jewellery",
+            "RTI 2005: Any citizen can ask for information from government offices (₹10 fee)",
+            "24 December = National Consumer Day (COPRA enacted on this day in 1986)"
+          ]
+        }
+      ]
+    }
+  ]
+}

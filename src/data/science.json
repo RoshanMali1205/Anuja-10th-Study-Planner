@@ -1,0 +1,487 @@
+{
+  "id": "science",
+  "name": "Science",
+  "icon": "🔬",
+  "color": "#2E7D32",
+  "chapters": [
+    {
+      "id": "sci-ch1",
+      "number": 1,
+      "title": "Chemical Reactions and Equations",
+      "weightage": "3-4 marks",
+      "topics": [
+        "Chemical equation — writing and balancing",
+        "Types of reactions: Combination, Decomposition, Displacement, Double Displacement, Redox",
+        "Effects of oxidation in daily life — Corrosion and Rancidity"
+      ],
+      "equations": [
+        "2Mg + O₂ → 2MgO (Combination)",
+        "2FeSO₄ → Fe₂O₃ + SO₂ + SO₃ (Decomposition)",
+        "CaCO₃ → CaO + CO₂ (Thermal decomposition)",
+        "Fe + CuSO₄ → FeSO₄ + Cu (Displacement)",
+        "Na₂SO₄ + BaCl₂ → BaSO₄↓ + 2NaCl (Double displacement)",
+        "CuO + H₂ → Cu + H₂O (Redox: CuO reduced, H₂ oxidized)",
+        "2H₂O → 2H₂ + O₂ (Electrolytic decomposition)",
+        "Zn + H₂SO₄ → ZnSO₄ + H₂↑"
+      ],
+      "keywords": ["Reactants", "Products", "Precipitate", "Exothermic", "Endothermic", "Corrosion", "Rancidity"],
+      "importantQuestions": [
+        "What is a balanced chemical equation? Why should it be balanced?",
+        "Explain different types of chemical reactions with examples.",
+        "What is corrosion? How can you prevent it?",
+        "Distinguish between combination and decomposition reactions with examples."
+      ],
+      "tips": [
+        "Balancing mein Hit and Trial method use karo — sabse aasan hai",
+        "Reaction types identify karne ke liye: products mein kitne compounds hain dekho",
+        "Decomposition = 1 reactant → many products; Combination = many → 1",
+        "Symbols yaad rakho: ↑(gas), ↓(precipitate), Δ(heat), ⇌(reversible)"
+      ]
+    },
+    {
+      "id": "sci-ch2",
+      "number": 2,
+      "title": "Acids, Bases and Salts",
+      "weightage": "3-4 marks",
+      "topics": [
+        "Properties of acids and bases",
+        "Indicators: Litmus, Phenolphthalein, Methyl Orange",
+        "Chemical properties of acids and bases",
+        "Reaction of acids with metals, metal carbonates, metal bicarbonates",
+        "Neutralisation reaction",
+        "pH scale and importance in daily life",
+        "Salts: Family, pH, Chemicals from salts (NaOH, Bleaching powder, Baking soda, Washing soda, Plaster of Paris)"
+      ],
+      "equations": [
+        "HCl + NaOH → NaCl + H₂O (Neutralisation)",
+        "Zn + H₂SO₄ → ZnSO₄ + H₂↑ (Acid + Metal)",
+        "Na₂CO₃ + 2HCl → 2NaCl + H₂O + CO₂↑ (Acid + Carbonate)",
+        "NaOH + HCl → NaCl + H₂O",
+        "2NaCl + 2H₂O → 2NaOH + Cl₂ + H₂ (Chlor-alkali process)",
+        "NaCl + H₂SO₄ → Na₂SO₄ + 2HCl",
+        "Ca(OH)₂ + Cl₂ → CaOCl₂ + H₂O (Bleaching powder)",
+        "NaCl + NH₃ + CO₂ + H₂O → NaHCO₃ + NH₄Cl",
+        "2NaHCO₃ → Na₂CO₃ + H₂O + CO₂ (Washing soda from baking soda)",
+        "CaSO₄·½H₂O + 1½H₂O → CaSO₄·2H₂O (POP setting)"
+      ],
+      "keywords": ["pH scale", "Universal indicator", "Chlor-alkali", "Bleaching powder", "Baking soda", "Washing soda", "Plaster of Paris"],
+      "importantQuestions": [
+        "What happens when an acid solution is mixed with a base solution? (Write word and chemical equation)",
+        "How is Plaster of Paris prepared? What happens when it is mixed with water?",
+        "Explain the Chlor-alkali process with diagram.",
+        "Why does tooth decay start when pH of mouth falls below 5.5?"
+      ],
+      "tips": [
+        "pH scale 0-14: 0-7 acidic, 7 neutral, 7-14 basic — yeh fundamental hai",
+        "Bleaching powder, Baking soda, Washing soda — teen chemicals ke formulas aur uses ratto",
+        "Plaster of Paris: CaSO₄·½H₂O — half water of crystallisation yaad rakho",
+        "Neutralisation = Acid + Base → Salt + Water — har jagah applicable"
+      ]
+    },
+    {
+      "id": "sci-ch3",
+      "number": 3,
+      "title": "Metals and Non-metals",
+      "weightage": "5 marks",
+      "topics": [
+        "Physical properties of metals and non-metals",
+        "Chemical properties of metals",
+        "Reactivity series",
+        "Ionic bonding — formation of ionic compounds",
+        "Properties of ionic compounds",
+        "Occurrence of metals — minerals and ores",
+        "Extraction of metals — Enrichment, Reduction, Refining",
+        "Corrosion and its prevention"
+      ],
+      "equations": [
+        "2Na + 2H₂O → 2NaOH + H₂↑ (Very reactive metal + water)",
+        "4Al + 3O₂ → 2Al₂O₃ (Metal + Oxygen)",
+        "Fe₂O₃ + 2Al → 2Fe + Al₂O₃ (Thermite reaction)",
+        "ZnO + C → Zn + CO (Reduction by carbon)",
+        "Cu₂S + O₂ → 2Cu + SO₂ (Roasting of copper)",
+        "2ZnS + 3O₂ → 2ZnO + 2SO₂ (Roasting)",
+        "ZnCO₃ → ZnO + CO₂ (Calcination)",
+        "2Na + Cl₂ → 2NaCl (Ionic bond formation)"
+      ],
+      "diagrams": ["Electrolytic refining diagram", "Reactivity series chart", "Ionic bond formation of NaCl"],
+      "keywords": ["Malleability", "Ductility", "Sonorous", "Reactivity series", "Gangue", "Slag", "Roasting", "Calcination", "Electrolytic refining"],
+      "importantQuestions": [
+        "Write the reactivity series of metals. Why is gold found in free state in nature?",
+        "Explain the extraction of metals of medium reactivity from their oxides.",
+        "What is thermite reaction? Where is it used?",
+        "Explain the formation of NaCl with electron transfer diagram.",
+        "Differentiate between roasting and calcination with examples."
+      ],
+      "tips": [
+        "Reactivity series ratta lagao: K Na Ca Mg Al Zn Fe Ni Sn Pb H Cu Hg Ag Au Pt",
+        "Extraction method reactivity pe depend karta hai: High→Electrolysis, Medium→Carbon reduction, Low→Self-reduction",
+        "Ionic bond mein electron transfer hota hai — diagram banao Na → Na⁺ + e⁻ and Cl + e⁻ → Cl⁻",
+        "Roasting = sulphide ore + oxygen; Calcination = carbonate ore + heat (bina air)"
+      ]
+    },
+    {
+      "id": "sci-ch4",
+      "number": 4,
+      "title": "Carbon and its Compounds",
+      "weightage": "5 marks",
+      "topics": [
+        "Bonding in carbon — Covalent bonding",
+        "Versatile nature of carbon — Catenation, Tetravalency",
+        "Saturated and unsaturated hydrocarbons",
+        "Homologous series",
+        "Nomenclature (IUPAC naming)",
+        "Chemical properties of carbon compounds: Combustion, Oxidation, Addition, Substitution",
+        "Ethanol and Ethanoic acid — properties and uses",
+        "Soaps and detergents"
+      ],
+      "equations": [
+        "CH₄ + 2O₂ → CO₂ + 2H₂O (Combustion of methane)",
+        "CH₃CH₂OH + O₂ → CH₃COOH + H₂O (Ethanol → Ethanoic acid - Oxidation)",
+        "CH₂=CH₂ + H₂ → CH₃CH₃ (Addition reaction — Hydrogenation)",
+        "CH₄ + Cl₂ → CH₃Cl + HCl (Substitution, in sunlight)",
+        "CH₃COOH + NaOH → CH₃COONa + H₂O",
+        "CH₃COOH + Na₂CO₃ → 2CH₃COONa + H₂O + CO₂",
+        "2CH₃CH₂OH → CH₃CH₂OCH₂CH₃ + H₂O (Dehydration at 443K)",
+        "C₂H₅OH + Na → C₂H₅ONa + H₂ (Ethanol + Sodium)",
+        "Fat/Oil + NaOH → Soap + Glycerol (Saponification)"
+      ],
+      "keywords": ["Covalent bond", "Catenation", "Tetravalency", "Homologous series", "Functional group", "Isomer", "Saturated", "Unsaturated", "Saponification", "Micelle"],
+      "importantQuestions": [
+        "What is homologous series? Write properties of homologous series.",
+        "What are the two properties of carbon that lead to huge number of carbon compounds?",
+        "Explain the cleansing action of soaps with diagram.",
+        "What is the difference between soap and detergent?",
+        "How would you distinguish saturated from unsaturated hydrocarbons?"
+      ],
+      "tips": [
+        "IUPAC naming: Root word (C count) + suffix (-ane, -ene, -yne) + functional group",
+        "Meth=1, Eth=2, Prop=3, But=4, Pent=5 carbon — yeh yaad karo",
+        "Saponification = Fat + Base → Soap + Glycerol — diagram ke saath samjho",
+        "Ethanol properties: dehydration at 443K (with conc. H₂SO₄), reaction with Na",
+        "Micelle formation ka diagram important hai for soap cleaning action"
+      ]
+    },
+    {
+      "id": "sci-ch5",
+      "number": 5,
+      "title": "Periodic Classification of Elements",
+      "weightage": "3-4 marks",
+      "topics": [
+        "Dobereiner's Triads",
+        "Newlands' Law of Octaves",
+        "Mendeleev's Periodic Table",
+        "Modern Periodic Table — based on atomic number",
+        "Position of elements — groups and periods",
+        "Trends in properties: Valency, Atomic size, Metallic/Non-metallic character, Electronegativity"
+      ],
+      "keywords": ["Periodic law", "Groups", "Periods", "Atomic radius", "Valency", "Electronegativity", "Metalloids"],
+      "importantQuestions": [
+        "State the modern periodic law. How does it differ from Mendeleev's periodic law?",
+        "How do atomic size and metallic character vary in a group and period?",
+        "Why are noble gases placed in a separate group?",
+        "List any 3 limitations of Mendeleev's periodic table.",
+        "An element has atomic number 12. What is its group, period, and valency?"
+      ],
+      "tips": [
+        "Group mein neeche jaao → Atomic size badhta hai, Metallic character badhta hai",
+        "Period mein left to right → Atomic size ghatta hai, Non-metallic character badhta hai",
+        "Valency: Group 1→1, 2→2, 13→3, 14→4, 15→3, 16→2, 17→1, 18→0",
+        "Atomic number = number of protons = number of electrons (for neutral atom)",
+        "Mendeleev ne mass se arrange kiya, Modern table atomic number se — yeh key difference hai"
+      ]
+    },
+    {
+      "id": "sci-ch6",
+      "number": 6,
+      "title": "Life Processes",
+      "weightage": "5-6 marks",
+      "topics": [
+        "Nutrition: Autotrophic (Photosynthesis) and Heterotrophic",
+        "Photosynthesis — process, factors, equation",
+        "Human digestive system — organs and enzymes",
+        "Respiration: Aerobic and Anaerobic",
+        "Human respiratory system",
+        "Transportation in humans: Heart, Blood vessels, Blood",
+        "Double circulation",
+        "Transportation in plants: Xylem and Phloem",
+        "Excretion in humans: Nephron, Kidney function"
+      ],
+      "equations": [
+        "6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂ (Photosynthesis, in sunlight + chlorophyll)",
+        "C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O + Energy (Aerobic respiration)",
+        "C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂ + Energy (Anaerobic - Yeast / Fermentation)",
+        "C₆H₁₂O₆ → 2C₃H₆O₃ + Energy (Anaerobic - Muscles / Lactic acid)"
+      ],
+      "diagrams": ["Human digestive system", "Cross-section of heart", "Structure of nephron", "Stomata opening/closing", "Double circulation diagram", "Xylem and Phloem cross-section"],
+      "keywords": ["Photosynthesis", "Peristalsis", "Villi", "Alveoli", "Haemoglobin", "Platelets", "Nephron", "Dialysis", "Translocation", "Transpiration"],
+      "importantQuestions": [
+        "Draw a diagram of human digestive system and label: Liver, Pancreas, Small intestine, Large intestine",
+        "Describe the process of photosynthesis. Write the equation.",
+        "Explain double circulation in humans with diagram.",
+        "Describe the structure and working of nephron with diagram.",
+        "Differentiate between arteries and veins."
+      ],
+      "tips": [
+        "Digestive system mein enzymes yaad karo: Saliva→Amylase, Stomach→Pepsin, Pancreas→Trypsin, Lipase",
+        "Heart ka diagram MUST practice — left side mein oxygenated blood",
+        "Nephron diagram roz 1 baar draw karo — easy marks aayenge",
+        "Xylem = water (upward, dead cells), Phloem = food (both directions, living cells)"
+      ]
+    },
+    {
+      "id": "sci-ch7",
+      "number": 7,
+      "title": "Control and Coordination",
+      "weightage": "3-4 marks",
+      "topics": [
+        "Nervous system: Stimulus → Response",
+        "Neuron — Structure and types",
+        "Reflex arc and Reflex action",
+        "Human brain — parts and functions",
+        "Coordination in plants: Tropic and Nastic movements",
+        "Plant hormones: Auxin, Gibberellin, Cytokinin, Abscisic acid, Ethylene",
+        "Hormones in animals: Endocrine glands"
+      ],
+      "diagrams": ["Structure of neuron", "Human brain (Cerebrum, Cerebellum, Medulla)", "Reflex arc diagram", "Endocrine glands in human body"],
+      "keywords": ["Synapse", "Dendrite", "Axon", "Reflex arc", "Cerebrum", "Cerebellum", "Medulla", "Tropism", "Phototropism", "Geotropism", "Auxin", "Adrenaline", "Thyroxine", "Insulin"],
+      "importantQuestions": [
+        "Draw a labelled diagram of a neuron.",
+        "What is a reflex action? Explain with a reflex arc diagram.",
+        "Name the parts of human brain and write one function of each.",
+        "How does chemical coordination occur in plants? Name different plant hormones.",
+        "What is the function of: (i) Insulin (ii) Thyroxine (iii) Adrenaline"
+      ],
+      "tips": [
+        "Neuron diagram draw karo: Dendrite → Cell body → Axon → Nerve ending",
+        "Brain parts: Cerebrum (thinking), Cerebellum (balance), Medulla (involuntary like breathing)",
+        "Plant hormones: Auxin (growth), Gibberellin (stem elongation), Cytokinin (cell division), ABA (inhibitor)",
+        "Endocrine glands mein pituitary = master gland kyunki yeh baaki glands ko control karta hai"
+      ]
+    },
+    {
+      "id": "sci-ch8",
+      "number": 8,
+      "title": "How do Organisms Reproduce?",
+      "weightage": "5 marks",
+      "topics": [
+        "Importance of reproduction",
+        "Asexual reproduction: Fission, Fragmentation, Regeneration, Budding, Spore formation, Vegetative propagation",
+        "Sexual reproduction in flowering plants",
+        "Structure of flower — reproductive parts",
+        "Pollination and Fertilization",
+        "Human reproductive system — Male and Female",
+        "Menstrual cycle",
+        "Reproductive health — Contraception methods"
+      ],
+      "diagrams": ["Binary fission in Amoeba", "Budding in Hydra", "Structure of flower (L.S.)", "Male reproductive system", "Female reproductive system", "Germination of pollen on stigma"],
+      "keywords": ["Binary fission", "Budding", "Fragmentation", "Spore", "Pollination", "Fertilization", "Zygote", "Embryo", "Placenta", "Menstruation", "Contraception"],
+      "importantQuestions": [
+        "Draw a diagram of: (i) Male reproductive system (ii) Female reproductive system",
+        "What is the significance of DNA copying in reproduction?",
+        "Describe the process of fertilization in flowers.",
+        "Differentiate between self-pollination and cross-pollination.",
+        "What are the different methods of contraception?"
+      ],
+      "tips": [
+        "Asexual methods: Amoeba→Binary fission, Hydra→Budding, Planaria→Regeneration, Rhizopus→Spore formation",
+        "Flower parts: Sepal, Petal, Stamen (anther+filament), Pistil (stigma+style+ovary)",
+        "Male system: Testis → Vas deferens → Urethra | Female: Ovary → Oviduct → Uterus",
+        "Menstrual cycle = 28 days, Ovulation = Day 14"
+      ]
+    },
+    {
+      "id": "sci-ch9",
+      "number": 9,
+      "title": "Heredity and Evolution",
+      "weightage": "3-4 marks",
+      "topics": [
+        "Heredity — Mendel's contribution",
+        "Monohybrid cross and Dihybrid cross",
+        "Dominant and Recessive traits",
+        "Sex determination in humans",
+        "Evolution — Evidences",
+        "Acquired vs Inherited traits",
+        "Speciation",
+        "Human evolution — brief overview"
+      ],
+      "diagrams": ["Monohybrid cross (Tt × Tt)", "Dihybrid cross", "Sex determination in humans (XX, XY)"],
+      "keywords": ["Gene", "Allele", "Dominant", "Recessive", "Genotype", "Phenotype", "Homologous organs", "Analogous organs", "Fossils", "Natural selection", "Speciation"],
+      "importantQuestions": [
+        "Explain Mendel's monohybrid cross with a cross diagram. State the ratios.",
+        "How is the sex of the child determined in human beings? Explain with diagram.",
+        "Differentiate between homologous and analogous organs with examples.",
+        "What are fossils? What do they tell us about evolution?",
+        "What is the difference between acquired and inherited traits?"
+      ],
+      "tips": [
+        "Monohybrid ratio = 3:1 (phenotype), 1:2:1 (genotype) — yeh ratta lagao",
+        "Dihybrid ratio = 9:3:3:1 — phenotypic ratio",
+        "Father determines sex: XY (father) × XX (mother) → XX (girl) or XY (boy)",
+        "Homologous = same origin, different function (arm, wing, flipper); Analogous = different origin, same function (wing of bird, wing of insect)"
+      ]
+    },
+    {
+      "id": "sci-ch10",
+      "number": 10,
+      "title": "Light — Reflection and Refraction",
+      "weightage": "5-7 marks",
+      "topics": [
+        "Reflection of light — Laws of reflection",
+        "Spherical mirrors: Concave and Convex",
+        "Image formation by spherical mirrors",
+        "Mirror formula and Magnification",
+        "Refraction of light — Laws of refraction (Snell's Law)",
+        "Refraction through rectangular glass slab",
+        "Lenses: Convex and Concave",
+        "Image formation by lenses",
+        "Lens formula and Magnification",
+        "Power of a lens"
+      ],
+      "formulas": [
+        "Mirror formula: 1/v + 1/u = 1/f",
+        "Magnification (mirror): m = -v/u = h'/h",
+        "Snell's Law: n₁ sin i = n₂ sin r",
+        "Refractive index: n = sin i / sin r = c/v",
+        "Lens formula: 1/v - 1/u = 1/f",
+        "Magnification (lens): m = v/u = h'/h",
+        "Power of lens: P = 1/f (in metres), unit = Dioptre (D)",
+        "For combination: P = P₁ + P₂",
+        "Concave mirror: f = negative, Convex mirror: f = positive",
+        "Concave lens: f = negative, Convex lens: f = positive"
+      ],
+      "diagrams": ["Image formation by concave mirror (all positions)", "Image formation by convex lens (all positions)", "Refraction through glass slab"],
+      "importantQuestions": [
+        "An object is placed at 30cm from a concave mirror of focal length 15cm. Find image position and nature.",
+        "Draw ray diagrams for concave mirror when object is: (i) at C (ii) between F and C (iii) at F",
+        "A convex lens of focal length 20cm forms image at 60cm. Find object distance.",
+        "An object of 5cm height is placed at 20cm from a convex lens of focal length 15cm. Find image position, nature and size.",
+        "What is the power of a lens of focal length 25cm?"
+      ],
+      "tips": [
+        "Sign convention yaad karo (New Cartesian): Left of mirror/lens = negative, Right = positive",
+        "Mirror: 1/v + 1/u = 1/f | Lens: 1/v - 1/u = 1/f — signs alag hain, dhyaan se!",
+        "Concave mirror = converging, Convex mirror = diverging (and vice versa for lenses)",
+        "Ray diagram mein 3 special rays banao: parallel to axis, through centre, through focus",
+        "Power P = 100/f(cm) — shortcut jab f centimetres mein ho"
+      ]
+    },
+    {
+      "id": "sci-ch11",
+      "number": 11,
+      "title": "Human Eye and Colourful World",
+      "weightage": "3-4 marks",
+      "topics": [
+        "Structure of human eye",
+        "functioning of eye lens, retina, iris",
+        "Power of accommodation",
+        "Defects of vision: Myopia, Hypermetropia, Presbyopia",
+        "Correction using lenses",
+        "Refraction through a prism",
+        "Dispersion of white light",
+        "Atmospheric refraction — Twinkling of stars, Early sunrise/Late sunset",
+        "Scattering of light — Tyndall effect, Blue sky, Red at sunrise/sunset"
+      ],
+      "formulas": [
+        "Myopia: corrected by concave lens, f = -distance of far point",
+        "Hypermetropia: corrected by convex lens",
+        "Angle of deviation: δ = i₁ + i₂ - A (prism)",
+        "For thin prism: δ = (n-1)A"
+      ],
+      "diagrams": ["Structure of human eye", "Myopia and its correction", "Hypermetropia and its correction", "Dispersion through prism (VIBGYOR)", "Tyndall effect"],
+      "importantQuestions": [
+        "What is myopia? Draw a ray diagram to show how it is corrected.",
+        "What is dispersion of light? Draw diagram showing dispersion through a prism.",
+        "Why does the sky appear blue?",
+        "Why do stars twinkle?",
+        "Explain why the sun appears red at sunrise and sunset."
+      ],
+      "tips": [
+        "Myopia = near objects clear, far objects blurry → Concave lens se correct",
+        "Hypermetropia = far objects clear, near objects blurry → Convex lens se correct",
+        "VIBGYOR: Violet, Indigo, Blue, Green, Yellow, Orange, Red — yaad rakho",
+        "Blue sky = Rayleigh scattering (blue light scattered most, λ chhoti), Red sunset = longer path, only red reaches"
+      ]
+    },
+    {
+      "id": "sci-ch12",
+      "number": 12,
+      "title": "Electricity",
+      "weightage": "5-7 marks",
+      "topics": [
+        "Electric current and circuit",
+        "Electric potential and Potential difference",
+        "Ohm's Law",
+        "Resistance — Factors affecting resistance",
+        "Resistivity",
+        "Series and Parallel combination of resistors",
+        "Heating effect of electric current",
+        "Electric power and Energy"
+      ],
+      "formulas": [
+        "V = IR (Ohm's Law)",
+        "R = ρl/A (Resistance = Resistivity × Length / Area)",
+        "Series: R_total = R₁ + R₂ + R₃",
+        "Parallel: 1/R_total = 1/R₁ + 1/R₂ + 1/R₃",
+        "P = VI = I²R = V²/R (Electric Power)",
+        "H = I²Rt (Joule's Law of Heating)",
+        "E = Pt (Energy = Power × Time)",
+        "1 kWh = 3.6 × 10⁶ J",
+        "I = Q/t (Current = Charge / Time)"
+      ],
+      "diagrams": ["Simple electric circuit", "Series combination", "Parallel combination", "V-I graph (Ohm's Law)"],
+      "importantQuestions": [
+        "State Ohm's law. Draw V-I characteristics graph.",
+        "Three resistors of 2Ω, 3Ω, 6Ω are connected in parallel. Find equivalent resistance.",
+        "An electric iron of 1000W is used for 30 minutes daily. Find cost of electricity for 30 days at ₹4 per unit.",
+        "Two resistors of 3Ω and 6Ω are connected in parallel, which is then connected in series with a 4Ω resistor. Find total resistance.",
+        "Why is parallel combination preferred in household wiring?"
+      ],
+      "tips": [
+        "Series mein current same, voltage divide | Parallel mein voltage same, current divide",
+        "Numericals mein units convert karo pehle — W, kW, Joule, kWh sab alag hain",
+        "Resistivity temperature-dependent hai but resistance bhi length aur area pe depend karta hai",
+        "Household mein parallel use hota hai — agar ek device band ho toh baaki chalu rehte hain",
+        "1 unit = 1 kWh = 1000W × 1 hour"
+      ]
+    },
+    {
+      "id": "sci-ch13",
+      "number": 13,
+      "title": "Magnetic Effects of Electric Current",
+      "weightage": "3-5 marks",
+      "topics": [
+        "Magnetic field and field lines",
+        "Magnetic field due to current-carrying conductor",
+        "Right-hand thumb rule",
+        "Magnetic field due to a solenoid",
+        "Force on a current-carrying conductor in magnetic field",
+        "Fleming's Left-Hand Rule",
+        "Electric motor — working principle",
+        "Electromagnetic induction",
+        "Fleming's Right-Hand Rule",
+        "Electric generator — AC and DC",
+        "Domestic electric circuits — Fuse, Earthing"
+      ],
+      "formulas": [
+        "F = BIl (Force on current-carrying conductor)",
+        "Right-hand thumb rule: thumb = current direction, curled fingers = magnetic field direction",
+        "Fleming's Left-Hand Rule: Forefinger=Field, Middle finger=Current, Thumb=Force (Motor)",
+        "Fleming's Right-Hand Rule: Forefinger=Field, Thumb=Motion, Middle finger=Induced current (Generator)"
+      ],
+      "diagrams": ["Magnetic field lines around straight conductor", "Magnetic field of solenoid", "Electric motor diagram", "AC Generator diagram", "Domestic wiring diagram"],
+      "importantQuestions": [
+        "What is electromagnetic induction? Name the scientist associated with it.",
+        "Draw a labelled diagram of an electric motor. Explain its working.",
+        "Draw a labelled diagram of an AC generator. Explain its working.",
+        "State Fleming's Left-Hand Rule and Right-Hand Rule.",
+        "What is a solenoid? Draw magnetic field lines of a solenoid. Compare with a bar magnet."
+      ],
+      "tips": [
+        "Motor = Electric energy → Mechanical energy (Left-Hand Rule) | Generator = Mechanical → Electric (Right-Hand Rule)",
+        "Motor mein split ring commutator, Generator mein slip rings — yeh difference important hai",
+        "Solenoid ka magnetic field bar magnet jaisa hota hai — diagram practice karo",
+        "Domestic supply: 220V, 50Hz AC | Fuse = safety device, always in LIVE wire"
+      ]
+    }
+  ]
+}

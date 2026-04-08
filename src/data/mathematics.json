@@ -1,0 +1,474 @@
+{
+  "id": "math",
+  "name": "Mathematics",
+  "icon": "🔢",
+  "color": "#1565C0",
+  "chapters": [
+    {
+      "id": "math-ch1",
+      "number": 1,
+      "title": "Real Numbers",
+      "weightage": "6 marks",
+      "topics": [
+        "Euclid's Division Lemma",
+        "Euclid's Division Algorithm to find HCF",
+        "Fundamental Theorem of Arithmetic",
+        "Prime Factorisation method for HCF & LCM",
+        "Revisiting Irrational Numbers — proofs",
+        "Revisiting Rational Numbers — decimal expansions"
+      ],
+      "formulas": [
+        "HCF × LCM = Product of two numbers",
+        "a = bq + r, where 0 ≤ r < b (Euclid's Division Lemma)",
+        "If p divides a², then p divides a (Theorem)",
+        "Terminating decimal ⇒ denominator = 2ⁿ × 5ᵐ"
+      ],
+      "importantQuestions": [
+        "Prove that √2 is irrational",
+        "Prove that √3 is irrational",
+        "Find HCF and LCM of 306 and 657 using Euclid's algorithm",
+        "Show that 5 - √3 is irrational",
+        "Find HCF of 96 and 404 by prime factorisation"
+      ],
+      "tips": [
+        "HCF/LCM ke sawaal mein pehle prime factorisation karo — easy and quick!",
+        "Irrational proof mein contradiction method zaroori hai — assume rational, then show contradiction",
+        "Decimal expansion check karne ke liye denominator ko 2ⁿ × 5ᵐ form mein likho"
+      ]
+    },
+    {
+      "id": "math-ch2",
+      "number": 2,
+      "title": "Polynomials",
+      "weightage": "3-4 marks",
+      "topics": [
+        "Geometrical meaning of zeroes of a polynomial",
+        "Relationship between zeroes and coefficients — Linear, Quadratic, Cubic",
+        "Division algorithm for polynomials",
+        "Finding zeroes of quadratic polynomial",
+        "Forming polynomial from given zeroes"
+      ],
+      "formulas": [
+        "For ax² + bx + c: Sum of zeroes (α+β) = -b/a",
+        "For ax² + bx + c: Product of zeroes (αβ) = c/a",
+        "For ax³ + bx² + cx + d: α+β+γ = -b/a",
+        "For cubic: αβ + βγ + γα = c/a",
+        "For cubic: αβγ = -d/a",
+        "p(x) = g(x) × q(x) + r(x) — Division Algorithm"
+      ],
+      "importantQuestions": [
+        "Find zeroes of 6x² - 3 - 7x and verify the relationship",
+        "If α and β are zeroes of x² - 6x + a, find 'a' if 3α + 2β = 20",
+        "Find a quadratic polynomial whose sum and product of zeroes are -3 and 2",
+        "Divide 3x² - x³ - 3x + 5 by x - 1 - x²"
+      ],
+      "tips": [
+        "Quadratic ke zeroes nikaalne ke liye factorisation ya splitting the middle term use karo",
+        "Relationship verify karna mat bhoolna — exam mein marks katne ka common reason",
+        "Cubic polynomial mein teen relationships hain — teeno likho"
+      ]
+    },
+    {
+      "id": "math-ch3",
+      "number": 3,
+      "title": "Pair of Linear Equations in Two Variables",
+      "weightage": "5-6 marks",
+      "topics": [
+        "Graphical method of solving linear equations",
+        "Algebraic methods: Substitution method",
+        "Algebraic methods: Elimination method",
+        "Algebraic methods: Cross-multiplication method",
+        "Consistent, Inconsistent, and Dependent systems",
+        "Conditions for unique, infinite, or no solution",
+        "Word problems based on linear equations"
+      ],
+      "formulas": [
+        "a₁/a₂ ≠ b₁/b₂ → Unique solution (Intersecting lines)",
+        "a₁/a₂ = b₁/b₂ ≠ c₁/c₂ → No solution (Parallel lines)",
+        "a₁/a₂ = b₁/b₂ = c₁/c₂ → Infinite solutions (Coincident lines)",
+        "Cross multiplication: x/(b₁c₂-b₂c₁) = y/(c₁a₂-c₂a₁) = 1/(a₁b₂-a₂b₁)"
+      ],
+      "importantQuestions": [
+        "Solve: 2x + 3y = 11 and 2x - 4y = -24",
+        "For what value of k: 2x + 3y = 7 and (k-1)x + (k+2)y = 3k has infinite solutions?",
+        "The sum of digits of a 2-digit number is 9. Number obtained by reversing digits is 27 more. Find the number.",
+        "5 pencils and 7 pens cost ₹50; 7 pencils and 5 pens cost ₹46. Find cost of each."
+      ],
+      "tips": [
+        "Word problems mein variables clearly define karo — x = kya, y = kya likhna zaroori hai",
+        "Elimination method sabse fast hai zyaadatar questions ke liye",
+        "Graphical method mein at least 3 points plot karo — accuracy ke liye",
+        "Conditions (a₁/a₂, b₁/b₂, c₁/c₂) ratta lagao — direct 1-2 marks ka sawaal aata hai"
+      ]
+    },
+    {
+      "id": "math-ch4",
+      "number": 4,
+      "title": "Quadratic Equations",
+      "weightage": "6-7 marks",
+      "topics": [
+        "Standard form: ax² + bx + c = 0",
+        "Solution by factorisation (splitting middle term)",
+        "Solution by completing the square",
+        "Quadratic formula (Shridharacharya formula)",
+        "Nature of roots using discriminant",
+        "Word problems based on quadratic equations"
+      ],
+      "formulas": [
+        "Quadratic Formula: x = (-b ± √(b²-4ac)) / 2a",
+        "Discriminant D = b² - 4ac",
+        "D > 0 → Two distinct real roots",
+        "D = 0 → Two equal real roots (x = -b/2a)",
+        "D < 0 → No real roots"
+      ],
+      "importantQuestions": [
+        "Solve: 2x² - 7x + 3 = 0 by factorisation",
+        "Find the nature of roots of 2x² - 4x + 3 = 0",
+        "The altitude of a right triangle is 7 cm less than its base. If hypotenuse is 13 cm, find the other sides.",
+        "A train travels 480 km at uniform speed. If speed had been 8 km/h less, it would have taken 3 hours more. Find speed.",
+        "Find two consecutive positive integers whose sum of squares is 365."
+      ],
+      "tips": [
+        "Discriminant question bahut easy marks hai — D calculate karo aur nature likho",
+        "Speed-distance-time problems mein table banao — easy ho jaata hai",
+        "Factorisation mushkil lage toh seedha formula use karo — galat nahi hai",
+        "Word problems mein negative root reject karna mat bhoolna (agar applicable ho)"
+      ]
+    },
+    {
+      "id": "math-ch5",
+      "number": 5,
+      "title": "Arithmetic Progressions (AP)",
+      "weightage": "5-6 marks",
+      "topics": [
+        "Definition and identification of AP",
+        "nth term of an AP (aₙ)",
+        "Sum of first n terms of an AP (Sₙ)",
+        "Finding number of terms",
+        "Finding AP when sum is given",
+        "Word problems on AP"
+      ],
+      "formulas": [
+        "nth term: aₙ = a + (n-1)d",
+        "Sum of n terms: Sₙ = n/2 [2a + (n-1)d]",
+        "Also: Sₙ = n/2 [a + l] where l = last term",
+        "Common difference: d = a₂ - a₁ = a₃ - a₂",
+        "Middle term (odd n): (n+1)/2 th term",
+        "aₙ = Sₙ - Sₙ₋₁"
+      ],
+      "importantQuestions": [
+        "Find the 31st term of AP: 5, 11, 17, 23, ...",
+        "How many terms of AP 24, 21, 18, ... must be taken so that their sum is 78?",
+        "If sum of 1st 7 terms = 49 and sum of 17 terms = 289, find sum of n terms.",
+        "Find the sum of first 40 positive integers divisible by 6.",
+        "The sum of 3rd and 7th terms of an AP is 6 and their product is 8. Find the sum of first 16 terms."
+      ],
+      "tips": [
+        "aₙ = Sₙ - Sₙ₋₁ yaad rakho — jab sum diya ho aur particular term poocha jaaye",
+        "3 numbers in AP: a-d, a, a+d le lo (sum simple ho jaata hai)",
+        "4 numbers in AP: a-3d, a-d, a+d, a+3d (common difference 2d)",
+        "Sum of natural numbers = n(n+1)/2 — yeh bhi kaam aata hai"
+      ]
+    },
+    {
+      "id": "math-ch6",
+      "number": 6,
+      "title": "Triangles",
+      "weightage": "6-8 marks",
+      "topics": [
+        "Similar figures",
+        "Similarity criteria: AA, SSS, SAS",
+        "Basic Proportionality Theorem (Thales Theorem) + Proof",
+        "Converse of BPT",
+        "Areas of similar triangles",
+        "Pythagoras Theorem + Proof",
+        "Converse of Pythagoras Theorem"
+      ],
+      "formulas": [
+        "BPT: If DE ∥ BC in △ABC, then AD/DB = AE/EC",
+        "Ratio of areas of similar triangles = (ratio of sides)²",
+        "ar(△ABC)/ar(△PQR) = (AB/PQ)² = (BC/QR)² = (CA/RP)²",
+        "Pythagoras: AC² = AB² + BC² (right angle at B)",
+        "If ratio of sides = k, ratio of areas = k²"
+      ],
+      "importantQuestions": [
+        "Prove Basic Proportionality Theorem (BPT) — complete proof",
+        "Prove Pythagoras Theorem — complete proof",
+        "In △ABC, DE ∥ BC with AD = 4cm, DB = 5cm, AE = 8cm. Find EC.",
+        "Sides of two similar triangles are in ratio 4:9. Find ratio of their areas.",
+        "A vertical pole of length 6m casts a shadow 4m. Find height of tower casting 28m shadow."
+      ],
+      "tips": [
+        "BPT proof aur Pythagoras proof ratta lagao — yeh guaranteed 4-5 marks ka question hai",
+        "Similar triangles mein corresponding sides match karna important hai — order galat mat karo",
+        "Area ratio = (side ratio)² — yeh formula direct apply hota hai"
+      ]
+    },
+    {
+      "id": "math-ch7",
+      "number": 7,
+      "title": "Coordinate Geometry",
+      "weightage": "6 marks",
+      "topics": [
+        "Distance formula",
+        "Section formula (internal division)",
+        "Midpoint formula",
+        "Area of triangle using coordinates",
+        "Collinearity of three points"
+      ],
+      "formulas": [
+        "Distance: d = √[(x₂-x₁)² + (y₂-y₁)²]",
+        "Section formula: P = ((mx₂+nx₁)/(m+n), (my₂+ny₁)/(m+n))",
+        "Midpoint: M = ((x₁+x₂)/2, (y₁+y₂)/2)",
+        "Area of △ = ½|x₁(y₂-y₃) + x₂(y₃-y₁) + x₃(y₁-y₂)|",
+        "If area = 0, points are collinear"
+      ],
+      "importantQuestions": [
+        "Find the distance between (-1, 7) and (4, -3)",
+        "Find the point on x-axis equidistant from (2, -5) and (-2, 9)",
+        "Find the ratio in which (4, -1) divides the join of (1, -7) and (8, 9)",
+        "Find area of triangle with vertices (2, 3), (4, 7), (-2, 2)",
+        "Show that points (1, -1), (5, 2), (9, 5) are collinear"
+      ],
+      "tips": [
+        "Distance formula mein negative signs ka dhyaan rakho — (x₂-x₁)² always positive hoga",
+        "Area of triangle ka value 0 aaye toh points collinear hain — directly likh do",
+        "Section formula mein m:n ka ratio clearly identify karo — ulta mat karo"
+      ]
+    },
+    {
+      "id": "math-ch8",
+      "number": 8,
+      "title": "Introduction to Trigonometry",
+      "weightage": "6-8 marks (with Ch 9)",
+      "topics": [
+        "Trigonometric ratios of an acute angle",
+        "Trigonometric ratios of specific angles (0°, 30°, 45°, 60°, 90°)",
+        "Trigonometric ratios of complementary angles",
+        "Trigonometric identities"
+      ],
+      "formulas": [
+        "sin θ = Opposite/Hypotenuse = P/H",
+        "cos θ = Adjacent/Hypotenuse = B/H",
+        "tan θ = Opposite/Adjacent = P/B = sin θ/cos θ",
+        "cosec θ = 1/sin θ, sec θ = 1/cos θ, cot θ = 1/tan θ",
+        "sin 0°=0, sin 30°=1/2, sin 45°=1/√2, sin 60°=√3/2, sin 90°=1",
+        "cos 0°=1, cos 30°=√3/2, cos 45°=1/√2, cos 60°=1/2, cos 90°=0",
+        "tan 0°=0, tan 30°=1/√3, tan 45°=1, tan 60°=√3, tan 90°=undefined",
+        "sin(90°-θ) = cos θ, cos(90°-θ) = sin θ",
+        "tan(90°-θ) = cot θ, cot(90°-θ) = tan θ",
+        "sin²θ + cos²θ = 1",
+        "1 + tan²θ = sec²θ",
+        "1 + cot²θ = cosec²θ"
+      ],
+      "importantQuestions": [
+        "If tan A = 4/3, find all other trigonometric ratios",
+        "Evaluate: sin 60° cos 30° + sin 30° cos 60°",
+        "Prove: (1 + tan²A)/(1 + cot²A) = tan²A",
+        "Prove: (sin θ - cos θ + 1)/(sin θ + cos θ - 1) = 1/(sec θ - tan θ)",
+        "If sin A = 3/4, find cos A and tan A"
+      ],
+      "tips": [
+        "sin-cos-tan table (0° to 90°) ratta lagao — har paper mein aata hai",
+        "SOH-CAH-TOA yaad rakho: Sin=O/H, Cos=A/H, Tan=O/A",
+        "Proving identities mein LHS se start karo, RHS ke taraf jaao",
+        "Complementary angle sawaal mein (90°-θ) replace karo — simple ho jaata hai"
+      ]
+    },
+    {
+      "id": "math-ch9",
+      "number": 9,
+      "title": "Some Applications of Trigonometry",
+      "weightage": "Combined with Ch 8",
+      "topics": [
+        "Heights and Distances",
+        "Line of sight",
+        "Angle of elevation",
+        "Angle of depression",
+        "Problems involving two triangles"
+      ],
+      "formulas": [
+        "tan θ = Height / Distance (most used)",
+        "Angle of elevation: angle from horizontal UP to object",
+        "Angle of depression: angle from horizontal DOWN to object",
+        "Angle of depression from top = Angle of elevation from bottom",
+        "For two objects: Use two right triangles with common side"
+      ],
+      "importantQuestions": [
+        "From the top of a 7m building, angle of elevation of a tower is 60° and depression of its foot is 45°. Find height of tower.",
+        "A kite is flying at 75m height. String makes 60° with ground. Find length of string.",
+        "A 1.5m tall boy sees the top of a 30m high building at elevation of 30°. Find distance.",
+        "From a point on ground, angles of elevation of top and bottom of a flagstaff on building are 60° and 45°. Find heights."
+      ],
+      "tips": [
+        "Figure draw karna zaroori hai — 90% students galat karte hain bina figure ke",
+        "Angle of depression aur elevation mein confuse mat ho — figure mein clearly mark karo",
+        "√3 = 1.732, √2 = 1.414 approximate values yaad rakho",
+        "Hamesha right triangle banao — tan ratio sabse zyada use hota hai"
+      ]
+    },
+    {
+      "id": "math-ch10",
+      "number": 10,
+      "title": "Circles",
+      "weightage": "4-5 marks",
+      "topics": [
+        "Tangent to a circle",
+        "Number of tangents from a point",
+        "Theorem: Tangent perpendicular to radius at point of contact",
+        "Theorem: Lengths of tangents from external point are equal",
+        "Problems involving tangent properties"
+      ],
+      "formulas": [
+        "Tangent ⊥ Radius at point of contact (OA ⊥ PA)",
+        "PA = PB (tangents from external point P)",
+        "If ∠OPA = θ, then ∠OPB = θ (tangents equally inclined to line joining centre and external point)",
+        "In circumscribed quadrilateral: AB + CD = BC + DA"
+      ],
+      "importantQuestions": [
+        "Prove that the tangent at any point of a circle is perpendicular to the radius — PROOF",
+        "Prove that lengths of tangents drawn from external point are equal — PROOF",
+        "Two concentric circles have radii 5cm and 3cm. Find length of chord of larger circle touching smaller circle.",
+        "PQ is a tangent to a circle with centre O at point P. If △OPQ is isosceles, find ∠OQP.",
+        "Prove that the parallelogram circumscribing a circle is a rhombus."
+      ],
+      "tips": [
+        "Dono theorems ke proofs ratto — exam mein guaranteed 3-4 marks",
+        "Tangent problems mein Pythagoras Theorem bhi lagta hai — triangle banake dekho",
+        "Circumscribed circle mein tangent lengths equal hoti hain — yeh property key hai"
+      ]
+    },
+    {
+      "id": "math-ch11",
+      "number": 11,
+      "title": "Constructions",
+      "weightage": "4 marks",
+      "topics": [
+        "Division of a line segment in given ratio",
+        "Construction of triangle similar to given triangle (scale factor)",
+        "Construction of tangents to a circle from external point",
+        "Construction of tangent at a point on the circle"
+      ],
+      "formulas": [
+        "Scale factor > 1: Larger similar triangle",
+        "Scale factor < 1: Smaller similar triangle",
+        "For tangent from external point: Join centre to external point, draw perpendicular bisector"
+      ],
+      "importantQuestions": [
+        "Draw a triangle ABC with BC=6cm, AB=5cm, AC=4cm. Construct a similar triangle with sides 3/4 of corresponding sides.",
+        "Draw a line segment of 7cm and divide it in ratio 2:3.",
+        "Draw a circle of radius 3cm. From a point 7cm away from centre, construct pair of tangents.",
+        "Construct a triangle with sides 5cm, 6cm, 7cm. Then construct a triangle similar to it with scale factor 5/3."
+      ],
+      "tips": [
+        "Scale factor ka ratio dhyaan se padho — 3/4 means chhota triangle, 7/5 means bada",
+        "Construction mein pencil sharp rakho aur arcs clearly draw karo",
+        "Steps likho construction ke saath — marks aate hain steps ke liye bhi",
+        "Tangent construction mein semicircle wala method use karo — sabse reliable"
+      ]
+    },
+    {
+      "id": "math-ch12",
+      "number": 12,
+      "title": "Areas Related to Circles",
+      "weightage": "4-5 marks",
+      "topics": [
+        "Perimeter and area of a circle — revision",
+        "Area of sector of a circle",
+        "Area of segment of a circle",
+        "Areas of combinations of plane figures"
+      ],
+      "formulas": [
+        "Area of circle = πr²",
+        "Circumference = 2πr",
+        "Area of sector = (θ/360°) × πr²",
+        "Length of arc = (θ/360°) × 2πr",
+        "Area of segment = Area of sector - Area of △",
+        "Area of segment = (θ/360°)πr² - ½r²sin θ",
+        "For minor segment: use above",
+        "For major segment: πr² - area of minor segment"
+      ],
+      "importantQuestions": [
+        "Find the area of a sector of angle 120° of a circle of radius 21 cm.",
+        "A chord of a circle of radius 15cm subtends 60° at centre. Find area of minor and major segments. (Use π=3.14, √3=1.73)",
+        "Find the area of shaded region where ABCD is a square of side 14cm with four equal semicircles.",
+        "Find the area of quadrant of a circle whose circumference is 22 cm."
+      ],
+      "tips": [
+        "π = 22/7 ya 3.14 question mein dekho — jo diya ho wahi use karo",
+        "Combination figures mein areas add/subtract karo methodically",
+        "Segment = Sector - Triangle — yeh formula key hai",
+        "Quadrant = sector with θ = 90°"
+      ]
+    },
+    {
+      "id": "math-ch13",
+      "number": 13,
+      "title": "Surface Areas and Volumes",
+      "weightage": "6 marks",
+      "topics": [
+        "Surface area of combination of solids",
+        "Volume of combination of solids",
+        "Conversion of one shape to another",
+        "Frustum of a cone"
+      ],
+      "formulas": [
+        "Cylinder: CSA=2πrh, TSA=2πr(r+h), V=πr²h",
+        "Cone: CSA=πrl, TSA=πr(l+r), V=⅓πr²h, l=√(r²+h²)",
+        "Sphere: SA=4πr², V=⁴⁄₃πr³",
+        "Hemisphere: CSA=2πr², TSA=3πr², V=⅔πr³",
+        "Frustum: CSA=π(r₁+r₂)l, V=⅓πh(r₁²+r₂²+r₁r₂)",
+        "Frustum lateral height: l = √[h²+(r₁-r₂)²]",
+        "When solid converted: Volume remains same"
+      ],
+      "importantQuestions": [
+        "A metallic sphere of radius 4.2 cm is melted and recast into shape of a cylinder of radius 6 cm. Find height.",
+        "A tent is in shape of cylinder surmounted by a cone. If height of cylinder is 2.1m, and slant height of cone is 2.8m, radius is 2m, find area of canvas.",
+        "A solid is in form of cone mounted on a hemisphere. Find total surface area if radius = 1 cm, height of cone = 1 cm.",
+        "Water in a cylindrical vessel of radius 12cm rises by 3.5cm when a solid sphere is immersed. Find radius of sphere."
+      ],
+      "tips": [
+        "Combination mein overlapping surface area subtract karo — common galti yahi hoti hai",
+        "Melting/recasting mein volume same rehta hai — equate volumes",
+        "Frustum ke sawaal mein r₁ aur r₂ identify karo carefully",
+        "Units check karo — cm ya m mixed na ho"
+      ]
+    },
+    {
+      "id": "math-ch14",
+      "number": 14,
+      "title": "Probability",
+      "weightage": "4-5 marks",
+      "topics": [
+        "Classical / Theoretical probability",
+        "Complementary events",
+        "Probability of impossible and sure events",
+        "Problems on coins, dice, cards, and balls"
+      ],
+      "formulas": [
+        "P(E) = Number of favourable outcomes / Total outcomes",
+        "P(not E) = 1 - P(E)",
+        "0 ≤ P(E) ≤ 1",
+        "P(impossible event) = 0",
+        "P(sure event) = 1",
+        "P(E) + P(not E) = 1",
+        "One die: 6 outcomes | Two dice: 36 outcomes",
+        "One coin: 2 outcomes | Two coins: 4 outcomes",
+        "Pack of cards: 52 total = 4 suits × 13 cards"
+      ],
+      "importantQuestions": [
+        "Two dice are thrown together. Find probability of getting: (i) same number (ii) sum = 8 (iii) doublet of even numbers",
+        "A box has 12 balls: 5 red, 4 blue, 3 green. Find P(not green).",
+        "A card is drawn from a well-shuffled deck. Find P(king), P(red queen), P(face card), P(not diamond)",
+        "A bag contains 5 red and some black balls. If P(black) = 3 × P(red), find number of black balls.",
+        "1500 families surveyed for number of children. Make probability distribution."
+      ],
+      "tips": [
+        "Cards ke sawaal mein: 52 cards, 4 suits (♠♥♦♣), 13 each, 12 face cards, 4 aces — yeh ratta lagao",
+        "Two dice mein 36 outcomes hain — table banaake dekho",
+        "P(not E) = 1 - P(E) ka use karo jab 'not' waala poochhein — seedha kaam banta hai",
+        "Sample space pehle likho — phir favourable count karo — mistake nahi hogi"
+      ]
+    }
+  ]
+}

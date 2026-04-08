@@ -1,0 +1,963 @@
+{
+  "id": "english",
+  "name": "English",
+  "icon": "📝",
+  "color": "#6A1B9A",
+  "sections": [
+    {
+      "id": "english-prose",
+      "title": "First Flight (Prose)",
+      "chapters": [
+        {
+          "id": "eng-prose-ch1",
+          "number": 1,
+          "title": "A Letter to God",
+          "topics": [
+            "Author: G.L. Fuentes",
+            "Lencho — a simple farmer with unshakable faith in God",
+            "Hailstorm destroys crops → writes a letter to God asking for 100 pesos",
+            "Postmaster collects money from colleagues → sends 70 pesos",
+            "Lencho thinks post office employees stole 30 pesos",
+            "Theme: Ironical faith — the very people who helped him are called thieves"
+          ],
+          "keywords": ["Faith", "Irony", "Innocence", "Gratitude vs Ingratitude"],
+          "importantQuestions": [
+            "Why did Lencho write a letter to God?",
+            "How did the postmaster help Lencho?",
+            "Why was Lencho angry after receiving the money?",
+            "What is the irony in the story 'A Letter to God'?",
+            "Describe Lencho's character in brief."
+          ],
+          "tips": [
+            "Irony samjho: Lencho ke faith mein twist hai — jo help kiya unko chor bola",
+            "Character sketch questions common hain — Lencho aur Postmaster dono ke liye prepare karo",
+            "Extract-based questions mein pehle context identify karo, phir answer likho"
+          ]
+        },
+        {
+          "id": "eng-prose-ch2",
+          "number": 2,
+          "title": "Nelson Mandela: Long Walk to Freedom",
+          "topics": [
+            "Author: Nelson Mandela (Autobiography)",
+            "10 May 1994 — Inauguration as South Africa's first black President",
+            "Apartheid — racial discrimination against non-whites",
+            "Mandela spent 27 years in prison on Robben Island",
+            "Theme: Courage, sacrifice, and the triumph of the human spirit",
+            "Freedom: not just personal freedom but freedom for all"
+          ],
+          "keywords": ["Apartheid", "Inauguration", "Courage", "Sacrifice", "Oppression", "Emancipation", "Rainbow Nation"],
+          "importantQuestions": [
+            "What does Mandela mean by 'twin obligations'?",
+            "Why did he say the oppressor is as much a prisoner as the oppressed?",
+            "Describe the inauguration ceremony of Nelson Mandela.",
+            "What does courage mean according to Mandela?",
+            "How did Mandela's understanding of freedom change over time?"
+          ],
+          "tips": [
+            "Twin obligations = obligation to family + obligation to people/country",
+            "Board mein Mandela ke views on courage aur freedom zaroor poochhe jaate hain",
+            "Dates important: 10 May 1994 inauguration, 27 years in prison"
+          ]
+        },
+        {
+          "id": "eng-prose-ch3",
+          "number": 3,
+          "title": "Two Stories about Flying",
+          "topics": [
+            "Part 1: 'His First Flight' by Liam O'Flaherty — Young seagull afraid to fly",
+            "Family encourages him, mother tricks him with fish → he flies",
+            "Theme: Fear can be conquered with courage and trust",
+            "Part 2: 'Black Aeroplane' by Frederick Forsyth",
+            "Pilot flying to England, encounters storm clouds",
+            "Mystery black aeroplane guides him to safety — no one saw it on radar",
+            "Theme: Mystery, supernatural help, imagination"
+          ],
+          "keywords": ["Fear", "Courage", "Trust", "Mystery", "Survival"],
+          "importantQuestions": [
+            "Why was the young seagull afraid to fly?",
+            "How did the mother seagull help the young seagull?",
+            "What risk did the narrator take in 'Black Aeroplane'?",
+            "Who do you think helped the narrator in the Black Aeroplane story?",
+            "What is the message of 'His First Flight'?"
+          ],
+          "tips": [
+            "Dono stories alag hain but ek common theme hai — overcoming fear",
+            "'His First Flight' = real story about seagull; 'Black Aeroplane' = mystery fiction",
+            "Black Aeroplane ka pilot mystery solved nahi hota — open-ended answer expected in board"
+          ]
+        },
+        {
+          "id": "eng-prose-ch4",
+          "number": 4,
+          "title": "From the Diary of Anne Frank",
+          "topics": [
+            "Author: Anne Frank (Diary entries)",
+            "Anne, a 13-year-old Jewish girl, writes diary entries during WWII",
+            "She names her diary 'Kitty'",
+            "Reflects on her feelings, loneliness, and why she writes",
+            "Mr Keesing — Maths teacher — punishes her for talking, she writes essays",
+            "Theme: Loneliness, importance of writing, adolescent emotions"
+          ],
+          "keywords": ["Diary", "Holocaust", "Loneliness", "Adolescence", "World War II", "Kitty"],
+          "importantQuestions": [
+            "Why did Anne Frank call her diary 'Kitty'?",
+            "Why did Anne think she could confide more in her diary than in people?",
+            "How did Anne handle Mr Keesing's punishment?",
+            "What does the diary tell us about the times Anne lived in?",
+            "Why does Anne feel she has no true friend?"
+          ],
+          "tips": [
+            "Anne ki diary WWII ke context mein hai — Holocaust ka background zaroor mention karo",
+            "Mr Keesing essays important hain — 3 essays poocha jaata hai (A Chatterbox, Quack Quack Quack, An Incorrigible Chatterbox)",
+            "Diary writing ka format bhi yaad rakho — Date, Salutation (Dear Kitty), body, sign off"
+          ]
+        },
+        {
+          "id": "eng-prose-ch5",
+          "number": 5,
+          "title": "The Hundred Dresses — I",
+          "topics": [
+            "Author: El Bsor Estes",
+            "Wanda Petronski — a Polish girl in an American school",
+            "Wears same faded blue dress daily, claims she has 100 dresses at home",
+            "Girls tease her (especially Peggy), Maddie feels guilty but stays silent",
+            "Theme: Bullying, empathy, courage to stand up"
+          ],
+          "keywords": ["Bullying", "Empathy", "Silence", "Courage", "Peer Pressure"],
+          "importantQuestions": [
+            "Why did Wanda claim she had a hundred dresses?",
+            "How did Peggy and Maddie react to Wanda's claim?",
+            "Why didn't Maddie stop Peggy from teasing Wanda?",
+            "What does this story teach us about bullying?",
+            "Describe the character of Maddie."
+          ],
+          "tips": [
+            "Maddie ka guilt important hai — woh silent bystander thi, peer pressure mein phasi thi",
+            "100 dresses actually Wanda ke drawings the — woh art competition win karti hai",
+            "Yeh chapter Part I hai — Part II mein resolution aata hai, dono saath prepare karo"
+          ]
+        },
+        {
+          "id": "eng-prose-ch6",
+          "number": 6,
+          "title": "The Hundred Dresses — II",
+          "topics": [
+            "Wanda's family moves away; her father writes letter about teasing",
+            "Wanda wins the drawing contest — 100 beautiful dress designs",
+            "Peggy and Maddie feel remorseful",
+            "Maddie resolves never to be a silent spectator again",
+            "Wanda gifts her drawings to Peggy and Maddie — faces drawn resemble them",
+            "Theme: Resolution, forgiveness, standing up against bullying"
+          ],
+          "keywords": ["Remorse", "Resolution", "Forgiveness", "Standing up"],
+          "importantQuestions": [
+            "What did Maddie resolve after the incident?",
+            "How did the class feel when they came to know that Wanda had won?",
+            "What showed that Wanda bore no ill will towards Peggy and Maddie?",
+            "Why did the girls write a letter to Wanda?",
+            "What lesson does Maddie learn from this experience?"
+          ],
+          "tips": [
+            "Theme question zaroor aata hai — bullying ke against stand lena, silent spectator na banna",
+            "Wanda ke drawings mein Peggy aur Maddie ke faces the — forgiveness ka sign",
+            "Maddie ka character transformation most important — guilty → resolve to change"
+          ]
+        },
+        {
+          "id": "eng-prose-ch7",
+          "number": 7,
+          "title": "Glimpses of India",
+          "topics": [
+            "Part 1: 'A Baker from Goa' by Lucio Rodrigues — Goan bread-making tradition, the pader",
+            "Part 2: 'Coorg' by Lokesh Abrol — Coorg (Kodagu), smallest district of Karnataka, coffee, martial traditions",
+            "Part 3: 'Tea from Assam' by Arup Kumar Datta — Tea gardens of Assam, legends of tea origin",
+            "Theme: Cultural diversity and richness of India"
+          ],
+          "keywords": ["Baker (Pader)", "Goa", "Coorg (Kodagu)", "Martial traditions", "Tea gardens", "Assam", "Cultural heritage"],
+          "importantQuestions": [
+            "What are the important elements of the story 'A Baker from Goa'?",
+            "Describe the beauty of Coorg.",
+            "What are the legends about the origin of tea?",
+            "What role did the baker play in the life of the Goan people?",
+            "Why is Coorg called the 'land of rolling hills'?"
+          ],
+          "tips": [
+            "Teen alag stories hain — har ek ka alag region hai (Goa, Coorg, Assam)",
+            "Baker story mein: pader, oven, types of bread (pao, bol, cake) — details important",
+            "Coorg facts: smallest district of Karnataka, River Kaveri origin, Kodavus are brave warriors",
+            "Tea legends: Chinese emperor (leaves fell in water) + Bodhidharma (cut eyelids grew into tea plant)"
+          ]
+        },
+        {
+          "id": "eng-prose-ch8",
+          "number": 8,
+          "title": "Mijbil the Otter",
+          "topics": [
+            "Author: Gavin Maxwell",
+            "Maxwell gets an otter (Mijbil/Mij) from Tigris marshes in Iraq",
+            "Species: Lutrogale perspicillata maxwelli (new subspecies named after him)",
+            "Mij's playful behavior, love for water, football in bathtub",
+            "Journey from Iraq to London with Mij — chaos on the plane",
+            "Theme: Bond between humans and animals"
+          ],
+          "keywords": ["Otter", "Mijbil/Mij", "Iraq", "Tigris marshes", "Human-animal bond"],
+          "importantQuestions": [
+            "Why did Maxwell decide to get an otter as a pet?",
+            "Describe Mij's favorite activities.",
+            "What happened on the flight from Iraq to London?",
+            "How did people in London react to Mij?",
+            "What was the new species of otter named after Maxwell?"
+          ],
+          "tips": [
+            "Otter ki details yaad rakho — species name, where from (Tigris, Iraq)",
+            "Plane journey scene — mij escaped from box, scared passengers — exam mein poochha jaata hai",
+            "London mein log Mij ko different animals samajhte the — seal? beaver? teddy bear?"
+          ]
+        },
+        {
+          "id": "eng-prose-ch9",
+          "number": 9,
+          "title": "Madam Rides the Bus",
+          "topics": [
+            "Author: Vallikkannan",
+            "Valli — 8-year-old Tamil girl from a village",
+            "Saves money secretly to ride the bus to the town and back",
+            "Observes everything on the bus with wonder and curiosity",
+            "Sees a dead cow on the return journey — first encounter with death",
+            "Theme: Curiosity, independence, reality of life and death"
+          ],
+          "keywords": ["Curiosity", "Independence", "Journey", "Life and Death", "Coming of age"],
+          "importantQuestions": [
+            "How did Valli plan her bus journey?",
+            "What did Valli see on her way that made her excited?",
+            "What was Valli's reaction when she saw the dead cow?",
+            "Why didn't Valli want to get off the bus at the town?",
+            "What does the story tell us about Valli's character?"
+          ],
+          "tips": [
+            "Valli 8 saal ki hai par bahut independent aur confident hai — character sketch important",
+            "Bus fare 30 paise one way (total 60 paise) — yeh detail board mein poochha jaata hai",
+            "Dead cow scene = loss of innocence — pehle live cow dekhi (happy), phir dead cow (sad)"
+          ]
+        },
+        {
+          "id": "eng-prose-ch10",
+          "number": 10,
+          "title": "The Sermon at Benares",
+          "topics": [
+            "Gautama Buddha's story — Prince Siddhartha to Buddha",
+            "Kisa Gotami — her only son dies, she goes mad with grief",
+            "Buddha asks her to bring mustard seeds from a house where no one has died",
+            "She realizes death is universal — no one escapes it",
+            "Theme: Death is inevitable, attachment causes suffering, acceptance brings peace"
+          ],
+          "keywords": ["Buddha", "Kisa Gotami", "Benares (Varanasi)", "Death", "Suffering", "Acceptance", "Enlightenment"],
+          "importantQuestions": [
+            "What did Kisa Gotami learn from her search for mustard seeds?",
+            "Why did Buddha ask Kisa Gotami to bring mustard seeds from a house that had never experienced death?",
+            "What was the sermon that Buddha gave at Benares?",
+            "How did Siddhartha Gautama become the Buddha?",
+            "What is the message of the story?"
+          ],
+          "tips": [
+            "Buddha ki teaching ka core: suffering is universal, death se koi bach nahi sakta",
+            "Kisa Gotami ka transformation important — grief → wisdom → acceptance",
+            "Benares = Varanasi — Buddha ka first sermon yahi tha (Deer Park, Sarnath)"
+          ]
+        },
+        {
+          "id": "eng-prose-ch11",
+          "number": 11,
+          "title": "The Proposal",
+          "topics": [
+            "Author: Anton Chekhov (Play/Drama)",
+            "Lomov comes to propose to Natalya Stepanovna",
+            "But they keep quarreling about: Oxen Meadows (whose land?) and dogs (Guess vs Squeezer)",
+            "Lomov has anxiety attacks; Chubukov (Natalya's father) tries to manage",
+            "Finally they get engaged — but keep arguing!",
+            "Theme: Comedy, satire on marriage and petty disputes"
+          ],
+          "keywords": ["Proposal", "Oxen Meadows", "Quarrel", "Comedy", "Satire", "Farce"],
+          "importantQuestions": [
+            "What was the real purpose of Lomov's visit?",
+            "What were the two main arguments between Lomov and Natalya?",
+            "Describe the character of Natalya.",
+            "How does the play end?",
+            "What is the satirical message of 'The Proposal'?"
+          ],
+          "tips": [
+            "Yeh ek play hai — dialogue-based, format yaad rakho",
+            "3 characters: Lomov (nervous), Natalya (argumentative), Chubukov (greedy father)",
+            "Dono arguments: (1) Oxen Meadows — land dispute, (2) Dogs — Guess vs Squeezer",
+            "Satire samjho: proposal hua but pyaar nahi, sirf jhagda — comedy of manners"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "english-poetry",
+      "title": "First Flight (Poetry)",
+      "chapters": [
+        {
+          "id": "eng-poem-ch1",
+          "number": 1,
+          "title": "Dust of Snow",
+          "topics": [
+            "Poet: Robert Frost",
+            "A crow shakes snow dust from a hemlock tree onto the poet",
+            "This small incident changes his mood — saves his ruined day",
+            "Theme: Nature can heal; small moments can change our perspective",
+            "Poetic devices: Alliteration, Enjambment, Symbolism"
+          ],
+          "keywords": ["Crow", "Hemlock tree", "Snow", "Nature's healing", "Positivity"],
+          "importantQuestions": [
+            "What is the significance of the crow and hemlock tree?",
+            "How did the dust of snow change the poet's mood?",
+            "What does the poem teach us about nature?",
+            "Identify the poetic devices used in the poem.",
+            "Why does the poet use negative symbols (crow, hemlock) for a positive message?"
+          ],
+          "tips": [
+            "Crow = sadness, hemlock = poison/death — negative symbols for positive message = CONTRAST",
+            "Very short poem (8 lines) — poochha zaroor jaata hai, word by word yaad karo",
+            "Poetic devices: Alliteration (has, hemlock), Enjambment (lines flow without pause)"
+          ]
+        },
+        {
+          "id": "eng-poem-ch2",
+          "number": 2,
+          "title": "Fire and Ice",
+          "topics": [
+            "Poet: Robert Frost",
+            "Fire = desire/passion, Ice = hatred/indifference",
+            "Debate: Will the world end in fire or ice?",
+            "Both are destructive enough to destroy the world",
+            "Theme: Human emotions (desire and hatred) can destroy everything",
+            "Poetic devices: Symbolism, Anaphora, Antithesis"
+          ],
+          "keywords": ["Fire", "Ice", "Desire", "Hatred", "Destruction", "Apocalypse"],
+          "importantQuestions": [
+            "What does 'fire' symbolize in the poem?",
+            "What does 'ice' symbolize?",
+            "What is the poet's opinion about the end of the world?",
+            "Explain: 'I think I know enough of hate / To say that for destruction ice / Is also great'",
+            "What is the message of the poem?"
+          ],
+          "tips": [
+            "Fire = desire (greed, lust) | Ice = hatred (coldness, indifference) — yeh symbolism zaroor likho",
+            "Poet says BOTH can destroy — pehle fire, agar dobara chance mile toh ice bhi kaafi hai",
+            "Short poem but deep meaning — board mein 5 marks ka question aa sakta hai"
+          ]
+        },
+        {
+          "id": "eng-poem-ch3",
+          "number": 3,
+          "title": "A Tiger in the Zoo",
+          "topics": [
+            "Poet: Leslie Norris",
+            "Contrast: Tiger in zoo (caged, helpless) vs Tiger in wild (free, majestic)",
+            "In zoo: walks in cage, ignores visitors, stares at stars at night",
+            "In wild: would lurk in shadow, slide through grass near villages, terrorize people",
+            "Theme: Animals should be free, captivity is cruel",
+            "Poetic devices: Contrast, Imagery, Personification"
+          ],
+          "keywords": ["Freedom", "Captivity", "Contrast", "Animal rights", "Imagery"],
+          "importantQuestions": [
+            "How does the tiger behave in the zoo?",
+            "How would the tiger behave in the wild?",
+            "What is the main contrast in the poem?",
+            "Why does the tiger stare at the stars?",
+            "What message does the poet convey about caged animals?"
+          ],
+          "tips": [
+            "Contrast hi poem ka core hai — zoo (sad, quiet, caged) vs jungle (powerful, free, fierce)",
+            "Last stanza important: 'He stares with his brilliant eyes at the brilliant stars' — longing for freedom",
+            "Animal rights angle se answer likhna — examiner ko relevant lagta hai"
+          ]
+        },
+        {
+          "id": "eng-poem-ch4",
+          "number": 4,
+          "title": "How to Tell Wild Animals",
+          "topics": [
+            "Poet: Carolyn Wells",
+            "Humorous poem — describes wild animals by what they do to you!",
+            "Asian Lion (roars, you die), Bengal Tiger (eats you, noble), Leopard (spots, peppered)",
+            "Bear (hugs you tight), Hyena (laughs), Crocodile (crying while eating)",
+            "Theme: Humour, irony — you won't survive to tell the difference!",
+            "Poetic devices: Humour, Irony, Rhyme scheme"
+          ],
+          "keywords": ["Humour", "Wild animals", "Irony", "Identification"],
+          "importantQuestions": [
+            "How can you identify the Asian Lion?",
+            "What is the difference between a tiger and a leopard according to the poem?",
+            "Why is the poem humorous?",
+            "How does the poet describe a bear?",
+            "What is the irony in the poem?"
+          ],
+          "tips": [
+            "Funny poem! Irony: animals ko identify karne ka tarika = they attack you first",
+            "Spot the difference: Tiger = black stripes; Leopard = spots/peppered",
+            "Hyena laughs, Crocodile cries (crocodile tears) — yeh details yaad rakho"
+          ]
+        },
+        {
+          "id": "eng-poem-ch5",
+          "number": 5,
+          "title": "The Ball Poem",
+          "topics": [
+            "Poet: John Berryman",
+            "A boy loses his ball in the water (harbour)",
+            "First experience of loss — money can't buy back the same ball",
+            "Boy must learn to cope with loss on his own",
+            "Theme: Learning to deal with loss, growing up, epistemology of loss",
+            "Poetic devices: Enjambment, Metaphor, Imagery, Alliteration"
+          ],
+          "keywords": ["Loss", "Growing up", "Grief", "Epistemology of loss", "Coming of age"],
+          "importantQuestions": [
+            "Why does the poet say 'No use to say O there are other balls'?",
+            "What does the loss of the ball teach the boy?",
+            "What is the 'epistemology of loss'?",
+            "Why doesn't the poet offer to buy another ball?",
+            "How is the ball a metaphor for life?"
+          ],
+          "tips": [
+            "Epistemology of loss = learning how to deal with loss — yeh term zaroor use karo answer mein",
+            "Ball = innocence, childhood memories — money se wapas nahi aa sakti",
+            "Poet deliberately help nahi karta — kyunki boy ko khud seekhna hai cope karna"
+          ]
+        },
+        {
+          "id": "eng-poem-ch6",
+          "number": 6,
+          "title": "Amanda!",
+          "topics": [
+            "Poet: Robin Klein",
+            "Amanda — a girl constantly being nagged by her mother for everything",
+            "Amanda imagines herself as: Mermaid (freedom in sea), Rapunzel (alone in tower), orphan (with no one to nag)",
+            "Alternating stanzas: reality (mom nagging) and fantasy (Amanda's escape)",
+            "Theme: Excessive control stifles creativity; children need freedom",
+            "Poetic devices: Rhyme scheme, Repetition, Imagery"
+          ],
+          "keywords": ["Freedom", "Imagination", "Nagging", "Childhood", "Fantasy vs Reality"],
+          "importantQuestions": [
+            "Why does Amanda imagine herself as a mermaid?",
+            "What kind of life does Amanda wish for?",
+            "How does the mother's nagging affect Amanda?",
+            "Why does Amanda imagine herself as an orphan?",
+            "What is the message of the poem?"
+          ],
+          "tips": [
+            "Italics waale stanzas = Amanda ka imagination; normal = mom nagging",
+            "3 fantasy: Mermaid (sea freedom), Rapunzel (tower peace), Orphan (no parents = no nagging)",
+            "Rapunzel mein Amanda says 'I will never let down my hair' — means she doesn't want anyone to reach her"
+          ]
+        },
+        {
+          "id": "eng-poem-ch7",
+          "number": 7,
+          "title": "Animals",
+          "topics": [
+            "Poet: Walt Whitman",
+            "Poet prefers animals over humans — animals are calm, self-contained, don't whine",
+            "Humans have lost their good qualities; animals still possess them (tokens of the poet's earlier self)",
+            "Animals: don't complain, don't lie awake in the dark, don't weep for sins, not obsessed with possessions",
+            "Theme: Criticism of human nature; animals represent lost innocence",
+            "Poetic devices: Anaphora, Repetition, Contrast"
+          ],
+          "keywords": ["Animals", "Humans", "Innocence", "Self-contained", "Criticism of civilization"],
+          "importantQuestions": [
+            "Why does the poet want to live with animals?",
+            "What are the qualities of animals that the poet admires?",
+            "What has the poet lost that animals still have?",
+            "What does 'tokens' mean in the poem?",
+            "How does the poet contrast humans with animals?"
+          ],
+          "tips": [
+            "Whitman ke andar jealousy hai — humans ne good qualities khoi hain jo animals mein abhi bhi hain",
+            "'Tokens' = signs/evidence of goodness that humans had earlier",
+            "Anaphora: 'They do not...' repeated — exam mein poetic device zaroor poochha jaata hai"
+          ]
+        },
+        {
+          "id": "eng-poem-ch8",
+          "number": 8,
+          "title": "The Trees",
+          "topics": [
+            "Poet: Adrienne Rich",
+            "Trees inside a glass house/greenhouse are moving outside into the forest",
+            "Symbolism: Trees = women, glass house = patriarchal society",
+            "Trees breaking free = women breaking free from oppression",
+            "Nature imagery: roots work all night, branches push against the roof",
+            "Theme: Freedom, breaking barriers, women's liberation",
+            "Poetic devices: Symbolism, Imagery, Personification"
+          ],
+          "keywords": ["Freedom", "Women's liberation", "Nature", "Breaking barriers", "Symbolism"],
+          "importantQuestions": [
+            "What do the trees symbolize in the poem?",
+            "How are the trees moving out of the glass house?",
+            "What is the deeper meaning of 'The Trees'?",
+            "What does the glass house represent?",
+            "Describe the imagery in the poem."
+          ],
+          "tips": [
+            "Surface level: trees moving from greenhouse to forest | Deep level: women's liberation",
+            "Glass house = patriarchy/restrictions; Trees going outside = breaking free",
+            "Adrienne Rich is a feminist poet — yeh context answer mein mention karo"
+          ]
+        },
+        {
+          "id": "eng-poem-ch9",
+          "number": 9,
+          "title": "Fog",
+          "topics": [
+            "Poet: Carl Sandburg",
+            "Short imagist poem — fog compared to a cat",
+            "Fog comes 'on little cat feet', sits and looks over the city, moves on",
+            "Extended metaphor: fog's movement = cat's behaviour (silent, quiet, temporary)",
+            "Theme: Nature's beauty in small things; transience",
+            "Poetic devices: Extended Metaphor, Personification, Imagery"
+          ],
+          "keywords": ["Fog", "Cat", "Metaphor", "Transience", "Imagism"],
+          "importantQuestions": [
+            "How does the poet compare fog to a cat?",
+            "What are the similarities between the fog and a cat?",
+            "What poetic device is used throughout the poem?",
+            "What is the theme of the poem 'Fog'?",
+            "Describe the movement of the fog."
+          ],
+          "tips": [
+            "Sirf 6 lines ka poem — extended metaphor samjho (fog = cat throughout)",
+            "3 similarities: silent arrival, sitting and watching, quietly moving away",
+            "Board mein mostly poetic device aur comparison poocha jaata hai — METAPHOR likho, simile nahi"
+          ]
+        },
+        {
+          "id": "eng-poem-ch10",
+          "number": 10,
+          "title": "The Tale of Custard the Dragon",
+          "topics": [
+            "Poet: Ogden Nash",
+            "Characters: Belinda (girl), Custard (cowardly dragon), Ink (kitten), Blink (mouse), Mustard (dog)",
+            "Everyone is brave except Custard who is a coward — everyone mocks him",
+            "Pirate attacks → Custard fights and eats the pirate, saves everyone!",
+            "After victory, others again claim they would have been braver",
+            "Theme: True courage vs boasting; appearances are deceptive",
+            "Poetic devices: Humour, Irony, Rhyme, Ballad form"
+          ],
+          "keywords": ["Courage", "Cowardice", "Boasting", "Irony", "Ballad"],
+          "importantQuestions": [
+            "Why was Custard considered a coward?",
+            "How did Custard prove his bravery?",
+            "What is the irony in the poem?",
+            "How did others react after Custard killed the pirate?",
+            "What is the message of the poem about true courage?"
+          ],
+          "tips": [
+            "Irony: sabse 'coward' = sabse brave nikla (Custard); so-called 'brave' ones hid",
+            "Ballad form hai — story poem, rhyming couplets mein",
+            "Names yaad rakho: Ink (kitten, black), Blink (mouse), Mustard (dog, yellow mustard)",
+            "Board mein character comparison aata hai — Custard vs others"
+          ]
+        },
+        {
+          "id": "eng-poem-ch11",
+          "number": 11,
+          "title": "For Anne Gregory",
+          "topics": [
+            "Poet: W.B. Yeats",
+            "Dialogue between the poet and a young woman (Anne Gregory)",
+            "Young men love her for her beautiful yellow hair, not for herself",
+            "Anne says she can dye her hair — poet says they still won't love her true self",
+            "Only God can love someone for themselves alone — not for external beauty",
+            "Theme: Inner beauty vs outer beauty; true love",
+            "Poetic devices: Dialogue form, Rhyme, Alliteration"
+          ],
+          "keywords": ["Beauty", "Inner beauty", "True love", "Appearance", "God's love"],
+          "importantQuestions": [
+            "What is the main argument between the poet and Anne Gregory?",
+            "Why does Anne want to dye her hair?",
+            "What does the poet mean by 'only God could love you for yourself alone'?",
+            "What is the theme of the poem?",
+            "Do you agree that we should be loved for who we are? Why?"
+          ],
+          "tips": [
+            "Poem conversation format mein hai — 2 viewpoints: poet (reality) vs Anne (idealism)",
+            "Yellow hair = external beauty; Anne wants to be loved for who she is inside",
+            "Last line ka reference: religious text — only God loves unconditionally"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "english-footprints",
+      "title": "Footprints Without Feet",
+      "chapters": [
+        {
+          "id": "eng-foot-ch1",
+          "number": 1,
+          "title": "A Triumph of Surgery",
+          "topics": [
+            "Author: James Herriot",
+            "Mrs Pumphrey's dog Tricki is overfed and falls sick",
+            "Dr Herriot takes Tricki to his surgery, puts him on a strict diet",
+            "Tricki recovers fully, Mrs Pumphrey sends gifts (eggs, wine) thinking they're for Tricki",
+            "Dr Herriot and partners enjoy the luxury food!",
+            "Theme: Overindulgence is harmful; tough love works"
+          ],
+          "importantQuestions": [
+            "Why was Dr Herriot worried about Tricki?",
+            "How did Dr Herriot treat Tricki?",
+            "What was Mrs Pumphrey's reaction?",
+            "Do you think Mrs Pumphrey was a good pet owner? Why/Why not?",
+            "Why is the story called 'A Triumph of Surgery'?"
+          ],
+          "tips": [
+            "Tricki ki bimari = overeating (Mrs Pumphrey bahut khilati thi)",
+            "Dr Herriot ne koi surgery nahi ki — sirf diet control kiya — isliye 'Triumph of Surgery' ironic title hai",
+            "Mrs Pumphrey ka love = overindulgence — useful example for real life answers"
+          ]
+        },
+        {
+          "id": "eng-foot-ch2",
+          "number": 2,
+          "title": "The Thief's Story",
+          "topics": [
+            "Author: Ruskin Bond",
+            "Hari Singh — a 15-year-old thief — befriends Anil (a writer)",
+            "Anil trusts Hari, teaches him to read and write, gives him affection",
+            "Hari steals ₹600 from Anil but returns it — guilt and trust change him",
+            "Theme: Trust and affection can reform a person"
+          ],
+          "importantQuestions": [
+            "Why did Hari Singh return the stolen money?",
+            "How did Anil treat Hari Singh?",
+            "What made Hari Singh change his ways?",
+            "Why did Hari Singh not board the train?",
+            "What role did education play in Hari's transformation?"
+          ],
+          "tips": [
+            "Hari ne paisa return kiya kyunki: (1) guilt, (2) Anil ka trust, (3) education ka opportunity lose nahi karna tha",
+            "Anil KNEW Hari stole — wet notes feel kiya — but kuch nahi bola | Trust ka example",
+            "Education as empowerment — yeh theme board mein important hai"
+          ]
+        },
+        {
+          "id": "eng-foot-ch3",
+          "number": 3,
+          "title": "Footprints Without Feet",
+          "topics": [
+            "Author: H.G. Wells",
+            "Griffin — a brilliant scientist who discovers how to make himself invisible",
+            "Uses invisibility for crime: sets landlord's house on fire, steals from shop, attacks people",
+            "Takes shelter at Mrs Hall's inn in Iping village, acts suspiciously",
+            "Finally caught when bandages removed revealing nothing underneath",
+            "Theme: Science without ethics is dangerous; genius can become criminal"
+          ],
+          "importantQuestions": [
+            "How did Griffin become invisible?",
+            "Why did Griffin set the house on fire?",
+            "How did Griffin's invisibility lead to his downfall?",
+            "What kind of person was Griffin?",
+            "What is the message of the story?"
+          ],
+          "tips": [
+            "Griffin = brilliant scientist but MISUSES his discovery — science without conscience",
+            "Title ka meaning: invisible person ke footprints dikh rahe the (mud mein)",
+            "Mrs Hall ke inn ka scene aur constable Jaffers ka scene — important for extracts"
+          ]
+        },
+        {
+          "id": "eng-foot-ch4",
+          "number": 4,
+          "title": "The Making of a Scientist",
+          "topics": [
+            "Author: Robert W. Peterson",
+            "Richard Ebright — a curious child who became a famous scientist",
+            "Started collecting butterflies at age 3, won county science fair",
+            "Research: How cells read their DNA → discovered a new hormone in monarch butterflies",
+            "Key qualities: curiosity, hard work, keen observation, methodical approach",
+            "Theme: Curiosity and dedication make a true scientist"
+          ],
+          "importantQuestions": [
+            "How did Richard Ebright's interest in butterflies lead to his scientific career?",
+            "What qualities made Ebright a successful scientist?",
+            "What was Ebright's significant discovery?",
+            "How did his mother encourage his scientific interests?",
+            "What role did 'The Travels of Monarch X' play in Ebright's life?"
+          ],
+          "tips": [
+            "Ebright ka journey: butterflies → tagging experiment → cells/DNA → gold plate model",
+            "Mother's role bahut important — encourage kiya, books laati thi (especially 'Travels of Monarch X')",
+            "3 qualities: curiosity + hard work + first-rate mind — board mein zaroor likho"
+          ]
+        },
+        {
+          "id": "eng-foot-ch5",
+          "number": 5,
+          "title": "Necklace (The Necklace)",
+          "topics": [
+            "Author: Guy de Maupassant",
+            "Matilda Loisel borrows a diamond necklace from her rich friend Mme Forestier for a party",
+            "She loses the necklace, replaces it with a real one costing ₹36,000 francs",
+            "Works for 10 years to pay off the debt",
+            "Shocking twist: the original necklace was FAKE (worth only 500 francs)",
+            "Theme: Vanity leads to ruin; appearances are deceptive; irony of fate"
+          ],
+          "importantQuestions": [
+            "Why did Matilda borrow the necklace?",
+            "What happened at the party?",
+            "How did the Loisels pay for the replacement necklace?",
+            "What is the twist at the end of the story?",
+            "What is the moral of 'The Necklace'?"
+          ],
+          "tips": [
+            "TWIST ending = original necklace NAQLI thi — yeh irony ka perfect example",
+            "10 saal ki mehnat ek fake necklace ke liye — vanity ki sazaa",
+            "Board mein moral question zaroor aata hai — honesty, contentment, don't pretend to be what you're not"
+          ]
+        },
+        {
+          "id": "eng-foot-ch6",
+          "number": 6,
+          "title": "The Hack Driver",
+          "topics": [
+            "Author: Sinclair Lewis",
+            "Young lawyer sent to serve summons on Oliver Lutkins in New Mullion village",
+            "Bill Magnuson (hack driver) = actually Oliver Lutkins himself!",
+            "Bill takes the lawyer around town, prevents him from finding Lutkins (himself)",
+            "Lawyer goes back to city, returns with another person who identifies Lutkins = Bill",
+            "Theme: Appearance vs reality; gullibility; small-town cunning"
+          ],
+          "importantQuestions": [
+            "Why was the lawyer sent to New Mullion?",
+            "How did the hack driver deceive the lawyer?",
+            "What impression did the lawyer form of Bill?",
+            "How did the lawyer discover the truth about Bill?",
+            "What does the story say about trusting strangers?"
+          ],
+          "tips": [
+            "Bill = Lutkins — same person! Lawyer itna naive tha ki pata hi nahi chala",
+            "Bill ne lawyer ko pura gaon ghuma diya — bahut smart deception",
+            "Second visit mein colleague ne identify kiya — tab lawyer shame feel kiya",
+            "Appearance vs Reality — yeh theme har answer mein mention karo"
+          ]
+        },
+        {
+          "id": "eng-foot-ch7",
+          "number": 7,
+          "title": "Bholi",
+          "topics": [
+            "Author: K.A. Abbas",
+            "Bholi (Sulekha) — born simple, scarred by pox, stammers, considered dull",
+            "Parents neglect her; sent to school as an afterthought",
+            "Teacher encourages her — transforms her confidence",
+            "On wedding day, groom Bishamber demands dowry → Bholi refuses to marry him",
+            "Theme: Education empowers; don't judge by appearances; women's empowerment"
+          ],
+          "importantQuestions": [
+            "How did Bholi's teacher change her life?",
+            "Why did Bholi refuse to marry Bishamber?",
+            "What kind of person was Bholi's father?",
+            "How is 'Bholi' a story of women's empowerment?",
+            "What is the role of education in Bholi's transformation?"
+          ],
+          "tips": [
+            "Teacher ka role highlight karo — pehli baar kisi ne Bholi ko respect diya",
+            "Bishamber ₹5000 dowry maangta hai — Bholi refuse karti hai = empowerment moment",
+            "Education = transformation — stammering girl → confident, outspoken woman",
+            "Board mein character sketch aur long answer dono aate hain"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "english-grammar",
+      "title": "Grammar & Writing",
+      "chapters": [
+        {
+          "id": "eng-gram-tenses",
+          "number": 1,
+          "title": "Tenses",
+          "topics": [
+            "Present Tense: Simple, Continuous, Perfect, Perfect Continuous",
+            "Past Tense: Simple, Continuous, Perfect, Perfect Continuous",
+            "Future Tense: Simple (will/shall), Continuous, Perfect, Perfect Continuous",
+            "Total 12 tenses — structure and usage"
+          ],
+          "rules": [
+            "Simple Present: S + V1(s/es) + O — 'She writes daily'",
+            "Present Continuous: S + is/am/are + V-ing — 'She is writing now'",
+            "Present Perfect: S + has/have + V3 — 'She has written the letter'",
+            "Simple Past: S + V2 + O — 'She wrote yesterday'",
+            "Past Continuous: S + was/were + V-ing — 'She was writing'",
+            "Past Perfect: S + had + V3 — 'She had written before he came'",
+            "Simple Future: S + will/shall + V1 — 'She will write tomorrow'"
+          ],
+          "examples": [
+            "I go to school daily. (Simple Present)",
+            "She is reading a book right now. (Present Continuous)",
+            "They have finished their homework. (Present Perfect)",
+            "He played football yesterday. (Simple Past)",
+            "We were watching TV when the bell rang. (Past Continuous)",
+            "She had already left before I arrived. (Past Perfect)",
+            "I will call you tomorrow. (Simple Future)"
+          ],
+          "tips": [
+            "Tense identify karne ke liye TIME MARKERS dekho: daily/always = Simple Present, now = Continuous, already/just = Perfect, yesterday = Past",
+            "Board mein gap-filling aur transformation dono aate hain — practice karo",
+            "Past Perfect tab use hota hai jab 2 past actions mein pehle wala batana ho"
+          ]
+        },
+        {
+          "id": "eng-gram-voice",
+          "number": 2,
+          "title": "Active and Passive Voice",
+          "topics": [
+            "Active Voice: Subject performs the action",
+            "Passive Voice: Subject receives the action",
+            "Conversion rules for all tenses",
+            "Special cases: Modals, Imperative sentences, Questions"
+          ],
+          "rules": [
+            "Active: S + V + O → Passive: O + be + V3 + by S",
+            "Simple Present: writes → is written",
+            "Simple Past: wrote → was written",
+            "Present Continuous: is writing → is being written",
+            "Past Continuous: was writing → was being written",
+            "Present Perfect: has written → has been written",
+            "Past Perfect: had written → had been written",
+            "Modal: can write → can be written",
+            "Future: will write → will be written"
+          ],
+          "examples": [
+            "Active: She writes a letter. → Passive: A letter is written by her.",
+            "Active: He made a cake. → Passive: A cake was made by him.",
+            "Active: They are building a house. → Passive: A house is being built by them.",
+            "Active: She can solve this. → Passive: This can be solved by her.",
+            "Active: Open the door. → Passive: Let the door be opened."
+          ],
+          "tips": [
+            "Step 1: Object ko aage lao, Step 2: 'be' form add karo (tense ke hisaab se), Step 3: V3 use karo, Step 4: 'by + subject'",
+            "Modals mein: modal + be + V3 (can be done, should be done, etc.)",
+            "Imperative: Let + object + be + V3 (Let it be done)"
+          ]
+        },
+        {
+          "id": "eng-gram-reported",
+          "number": 3,
+          "title": "Reported Speech (Indirect Speech)",
+          "topics": [
+            "Direct to Indirect Speech conversion",
+            "Changes in: Tense, Pronouns, Time/Place expressions",
+            "Reporting verbs: said, told, asked, ordered, requested",
+            "Types: Statements, Questions, Commands/Requests, Exclamations"
+          ],
+          "rules": [
+            "Present → Past (He said, 'I am happy' → He said that he was happy)",
+            "Past → Past Perfect (She said, 'I went' → She said she had gone)",
+            "will → would, can → could, may → might",
+            "this → that, here → there, now → then, today → that day, tomorrow → the next day, yesterday → the previous day",
+            "Questions: asked + if/whether (Yes/No) or asked + wh-word",
+            "Commands: ordered/requested + to + V1",
+            "Exclamations: exclaimed + that"
+          ],
+          "examples": [
+            "Direct: He said, 'I am tired.' → Indirect: He said that he was tired.",
+            "Direct: She said, 'I will come.' → Indirect: She said that she would come.",
+            "Direct: 'Are you happy?' he asked. → Indirect: He asked if I was happy.",
+            "Direct: 'Where do you live?' she asked. → Indirect: She asked where I lived.",
+            "Direct: 'Sit down,' the teacher said. → Indirect: The teacher ordered them to sit down."
+          ],
+          "tips": [
+            "Sabse pehle reporting verb dekho (said/asked/ordered) — isse type pata chalega",
+            "Tense ek step BACK jaata hai: Present→Past, Past→Past Perfect, Will→Would",
+            "Pronouns change hote hain — speaker ke perspective se likho",
+            "Agar reporting verb PRESENT tense mein hai, toh tense change NAHI hota"
+          ]
+        },
+        {
+          "id": "eng-gram-letter",
+          "number": 4,
+          "title": "Letter Writing",
+          "topics": [
+            "Formal Letter: Complaint, Application, Editor, Enquiry",
+            "Informal Letter: To friend, relative",
+            "Format: Sender's address, Date, Receiver's address, Subject, Salutation, Body, Closing"
+          ],
+          "rules": [
+            "Formal format: Sender's address (top left) → Date → Receiver's address → Subject → Sir/Madam → Body (3 paras) → Yours faithfully → Name",
+            "Informal format: Address → Date → Dear [Name] → Body → Yours lovingly → Name",
+            "Body: Para 1 = Introduction/Purpose, Para 2 = Details, Para 3 = Conclusion/Request",
+            "Word limit: 100-120 words",
+            "Subject line must be clear and brief"
+          ],
+          "examples": [
+            "Formal: Letter to Editor about pollution in your area",
+            "Formal: Letter to Principal requesting leave/organizing an event",
+            "Formal: Complaint letter about water supply/road conditions",
+            "Informal: Letter to friend inviting for birthday/vacation"
+          ],
+          "tips": [
+            "FORMAT = 2 marks — galat format = marks cut! Pehle format practice karo",
+            "Formal mein: Yours faithfully (if Sir/Madam); Yours sincerely (if name known)",
+            "Body mein 3 paragraphs zaroor likho — single block mat likho",
+            "Subject line mein: 'Regarding...' ya 'Sub: ...' likho — crisp and clear"
+          ]
+        },
+        {
+          "id": "eng-gram-article",
+          "number": 5,
+          "title": "Article & Paragraph Writing",
+          "topics": [
+            "Article: Title, By-line, Introduction, Body, Conclusion",
+            "Common topics: Pollution, Social Media, Education, Health, Festivals",
+            "Paragraph Writing: Single topic, clear structure"
+          ],
+          "rules": [
+            "Article format: TITLE (catchy) → By: [Your Name] → Introduction → Body (2-3 paras with facts/examples) → Conclusion",
+            "Word limit: 150-200 words",
+            "Use facts, statistics, quotes to make it engaging",
+            "Paragraph: Topic sentence → Supporting sentences → Concluding sentence"
+          ],
+          "examples": [
+            "Article: 'Importance of Trees in Urban Areas'",
+            "Article: 'Impact of Social Media on Students'",
+            "Article: 'Online Education: Boon or Bane?'",
+            "Paragraph: 'My Favorite Festival'"
+          ],
+          "tips": [
+            "Title catchy hona chahiye — question ya quote se start karo",
+            "By-line zaroor likho: 'By: [Name]' — marks milte hain format ke",
+            "Introduction mein hook do: shocking fact ya question",
+            "Conclusion mein suggestion/appeal likhne se acche marks aate hain"
+          ]
+        },
+        {
+          "id": "eng-gram-comprehension",
+          "number": 6,
+          "title": "Reading Comprehension",
+          "topics": [
+            "Unseen Passage: Factual and Discursive",
+            "Types of questions: MCQ, Short answer, Vocabulary-based, Title suggestion",
+            "Skills tested: Main idea, inference, vocabulary in context"
+          ],
+          "rules": [
+            "Read passage TWICE — first for overview, second for details",
+            "Answer in your own words unless asked to quote",
+            "Vocabulary questions: understand from context, not memorized meaning",
+            "Title should reflect the MAIN IDEA, not a detail"
+          ],
+          "tips": [
+            "Pehle questions padho, PHIR passage padho — targeted reading saves time",
+            "Answer passage mein hi hota hai — apne se mat likho, passage se uthaao",
+            "Vocabulary question mein: sentence mein word ka meaning context se samjho",
+            "Title question last mein karo — pura passage samajhne ke baad title do",
+            "Word limit follow karo — zyada likhne se marks nahi katate but time waste hota hai"
+          ]
+        }
+      ]
+    }
+  ]
+}

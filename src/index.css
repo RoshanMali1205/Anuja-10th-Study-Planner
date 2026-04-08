@@ -1,0 +1,163 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: 'Inter', ui-sans-serif, system-ui, sans-serif;
+  --font-heading: 'Baloo 2', cursive, ui-sans-serif, system-ui, sans-serif;
+
+  /* Warm color palette */
+  --color-primary-50: #FFF8F3;
+  --color-primary-100: #FFE0CC;
+  --color-primary-200: #FFCBA4;
+  --color-primary-300: #FFB374;
+  --color-primary-400: #FF9244;
+  --color-primary-500: #FF6B35;
+  --color-primary-600: #E85D25;
+  --color-primary-700: #C0392B;
+  --color-primary-800: #A92A1E;
+  --color-primary-900: #7A1D14;
+
+  /* Subject colors */
+  --color-math: #1565C0;
+  --color-math-light: #E3F2FD;
+  --color-math-dark: #0D47A1;
+  --color-science: #2E7D32;
+  --color-science-light: #E8F5E9;
+  --color-science-dark: #1B5E20;
+  --color-social: #E65100;
+  --color-social-light: #FBE9E7;
+  --color-social-dark: #BF360C;
+  --color-english: #6A1B9A;
+  --color-english-light: #F3E5F5;
+  --color-english-dark: #4A148C;
+  --color-sanskrit: #00695C;
+  --color-sanskrit-light: #E0F2F1;
+  --color-sanskrit-dark: #004D40;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-sans);
+  background: var(--color-primary-50);
+  color: #2C2C2C;
+  -webkit-tap-highlight-color: transparent;
+  line-height: 1.65;
+}
+
+.dark body {
+  background: #1a1a2e;
+  color: #e0e0e0;
+}
+
+.font-heading {
+  font-family: var(--font-heading);
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: #FFE0CC;
+  border-radius: 999px;
+}
+.dark ::-webkit-scrollbar-thumb {
+  background: #333;
+}
+
+/* Fade-in for accordion content */
+@keyframes accordionOpen {
+  from { opacity: 0; max-height: 0; overflow: hidden; }
+  to { opacity: 1; max-height: 2000px; overflow: visible; }
+}
+.animate-accordion {
+  animation: accordionOpen 0.25s ease forwards;
+}
+
+/* Fade-in animation */
+@keyframes fadeInUp {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+.animate-fade-in {
+  animation: fadeInUp 0.25s ease;
+}
+
+/* Hero decorative circles */
+.hero-circle-1 {
+  position: absolute;
+  width: 240px;
+  height: 240px;
+  background: rgba(255,255,255,0.06);
+  border-radius: 50%;
+  top: -70px;
+  right: -50px;
+}
+.hero-circle-2 {
+  position: absolute;
+  width: 160px;
+  height: 160px;
+  background: rgba(255,255,255,0.05);
+  border-radius: 50%;
+  bottom: -50px;
+  left: -30px;
+}
+
+/* Tab scrollbar hide */
+.scrollbar-hide::-webkit-scrollbar { display: none; }
+.scrollbar-hide { -ms-overflow-style: none; scrollbar-width: none; }
+
+/* Chapter card hover */
+.chapter-card {
+  transition: all 0.18s ease;
+}
+.chapter-card:hover {
+  box-shadow: 0 4px 14px rgba(0,0,0,0.1);
+  transform: translateY(-2px);
+}
+
+/* Tip box reference style */
+.tip-box {
+  background: #FFF8F0;
+  border-radius: 7px;
+  padding: 7px 10px;
+  border-left: 3px solid #FFB347;
+}
+.dark .tip-box {
+  background: rgba(255, 179, 71, 0.1);
+  border-left-color: #FF9244;
+}
+
+/* Tips section green gradient style */
+.tips-section {
+  background: linear-gradient(135deg, #E8F8F0, #D5F5E3);
+  border: 1px solid #A9DFBF;
+}
+.dark .tips-section {
+  background: linear-gradient(135deg, rgba(39, 174, 96, 0.15), rgba(39, 174, 96, 0.08));
+  border-color: rgba(39, 174, 96, 0.3);
+}
+
+/* Subject panel header gradients */
+.panel-header-math { background: linear-gradient(135deg, #1565C0, #0D47A1); }
+.panel-header-science { background: linear-gradient(135deg, #2E7D32, #1B5E20); }
+.panel-header-social { background: linear-gradient(135deg, #E65100, #BF360C); }
+.panel-header-english { background: linear-gradient(135deg, #6A1B9A, #4A148C); }
+.panel-header-sanskrit { background: linear-gradient(135deg, #00695C, #004D40); }
+
+/* Warm card style */
+.warm-card {
+  background: #fff;
+  border: 1px solid #FFE0CC;
+  border-radius: 14px;
+  box-shadow: 0 2px 9px rgba(255, 107, 53, 0.05);
+}
+.dark .warm-card {
+  background: #1e2237;
+  border-color: #333;
+}

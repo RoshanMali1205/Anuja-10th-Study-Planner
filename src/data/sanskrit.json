@@ -1,0 +1,577 @@
+{
+  "id": "sanskrit",
+  "name": "Sanskrit (संस्कृतम्)",
+  "icon": "🕉️",
+  "color": "#00695C",
+  "sections": [
+    {
+      "id": "sanskrit-shemushi",
+      "title": "Shemushi (शेमुषी)",
+      "chapters": [
+        {
+          "id": "sans-sh-ch1",
+          "number": 1,
+          "title": "शुचिपर्यावरणम् (Clean Environment)",
+          "topics": [
+            "Theme: Importance of clean and green environment",
+            "Poem praising nature — trees, rivers, pure air",
+            "Emphasis on protecting environment from pollution",
+            "Vocabulary: पर्यावरणम् (environment), वृक्षाः (trees), नद्यः (rivers), वायुः (air)"
+          ],
+          "shlokas": [
+            "शुचि-पर्यावरणम् अस्माकं धर्मः",
+            "प्रकृतिः रक्षति रक्षितः — Nature protects those who protect it"
+          ],
+          "meanings": [
+            "शुचि = clean/pure",
+            "पर्यावरणम् = environment",
+            "प्रदूषणम् = pollution",
+            "जलम् = water",
+            "वायुः = air",
+            "वृक्षाः = trees"
+          ],
+          "importantQuestions": [
+            "शुचिपर्यावरणम् इति पाठस्य सारांशं लिखत।",
+            "पर्यावरण-रक्षणार्थं वयं किं किं कर्तुं शक्नुमः?",
+            "Write the meaning of: शुचि, पर्यावरणम्, प्रदूषणम्"
+          ],
+          "tips": [
+            "Poem hai — shlokas yaad karna important",
+            "Environment related Sanskrit words list bana lo — exam mein useful",
+            "Hindi meaning ke saath Sanskrit words yaad karo"
+          ]
+        },
+        {
+          "id": "sans-sh-ch2",
+          "number": 2,
+          "title": "बुद्धिर्बलवती सदा (Intelligence is Always Powerful)",
+          "topics": [
+            "Story of a clever woman who saves her village using her intelligence",
+            "Moral: Buddhi (intelligence) is more powerful than physical strength (बल)",
+            "Characters: एका बुद्धिमती नारी (a clever woman), सिंहः (lion)",
+            "The woman tricks the lion and saves people"
+          ],
+          "shlokas": [
+            "बुद्धिर्बलवती सदा — Intelligence is always more powerful",
+            "बुद्धिर्यस्य बलं तस्य — One who has intelligence, has the real strength"
+          ],
+          "meanings": [
+            "बुद्धिः = intelligence/wisdom",
+            "बलम् = strength/power",
+            "सदा = always",
+            "नारी = woman",
+            "सिंहः = lion",
+            "ग्रामः = village"
+          ],
+          "importantQuestions": [
+            "बुद्धिमती नारी सिंहं कथं अवञ्चयत्?",
+            "बुद्धिर्बलवती सदा — इति कथायाः सारांशं लिखत।",
+            "'बुद्धिर्बलवती सदा' — इति उक्तेः आशयं स्पष्टीकुरुत।"
+          ],
+          "tips": [
+            "Moral = Intelligence > Physical strength — har answer mein yeh mention karo",
+            "Story ko sequence mein yaad karo — kaise woman ne lion ko fool kiya",
+            "Sanskrit mein answer likhte waqt simple sentences use karo"
+          ]
+        },
+        {
+          "id": "sans-sh-ch3",
+          "number": 3,
+          "title": "व्यायामः सर्वदा पथ्यः (Exercise is Always Beneficial)",
+          "topics": [
+            "Importance of exercise (व्यायामः) for health",
+            "Benefits: strength, health, digestion, disease prevention",
+            "From Charaka Samhita (ancient Ayurvedic text)",
+            "Moderation in exercise — excessive exercise is harmful"
+          ],
+          "shlokas": [
+            "व्यायामः सर्वदा पथ्यः — Exercise is always wholesome",
+            "शरीरोपचयः कान्तिः... — Exercise gives body development, radiance, etc.",
+            "बलस्यार्धेन कर्तव्यो व्यायामः — Exercise should be done with half one's strength"
+          ],
+          "meanings": [
+            "व्यायामः = exercise",
+            "सर्वदा = always",
+            "पथ्यः = beneficial/wholesome",
+            "शरीरम् = body",
+            "आरोग्यम् = health",
+            "बलम् = strength"
+          ],
+          "importantQuestions": [
+            "व्यायामस्य लाभाः के के सन्ति?",
+            "व्यायामः कथं कर्तव्यः?",
+            "'बलस्यार्धेन कर्तव्यः व्यायामः' — इत्यस्य भावार्थं लिखत।"
+          ],
+          "tips": [
+            "Charaka Samhita reference zaroor likho — extra marks milte hain",
+            "व्यायाम ke 4-5 benefits yaad rakho — list format mein",
+            "Moderation ka concept important: half strength = बलस्यार्धेन"
+          ]
+        },
+        {
+          "id": "sans-sh-ch4",
+          "number": 4,
+          "title": "शिशुलालनम् (Nurturing of a Child)",
+          "topics": [
+            "From the play 'Abhijnana Shakuntalam' by Kalidasa",
+            "Scene: Shakuntala's son Sarvadamana plays with a lion cub",
+            "Child's fearlessness and innocence",
+            "Father-son meeting — King Dushyanta recognizes his son",
+            "Theme: Parental love, bravery of child"
+          ],
+          "shlokas": [
+            "सिंहशावस्य दन्तान् गणय — Count the teeth of the lion cub (child's bravery)"
+          ],
+          "meanings": [
+            "शिशुः = child",
+            "लालनम् = nurturing/caring",
+            "सिंहशावः = lion cub",
+            "दन्तः = tooth",
+            "पिता = father",
+            "माता = mother",
+            "बालकः = boy"
+          ],
+          "importantQuestions": [
+            "शिशुलालनम् इति पाठस्य सारांशं लिखत।",
+            "बालकः सिंहशावेन सह किम् अकरोत्?",
+            "दुष्यन्तः बालकं कथम् अजानात्?"
+          ],
+          "tips": [
+            "Kalidasa ka Abhijnana Shakuntalam — yeh background zaroor mention karo",
+            "Child = Sarvadamana (Bharat) — brave enough to play with lion cubs",
+            "Lion cub waala scene most important — extract mein aa sakta hai"
+          ]
+        },
+        {
+          "id": "sans-sh-ch5",
+          "number": 5,
+          "title": "जननी तुल्यवत्सला (A Mother's Equal Affection)",
+          "topics": [
+            "From Mahabharata — Queen's equal love for all children",
+            "Story of a mother who treats all children equally, including stepchildren",
+            "Theme: A true mother loves all children equally",
+            "Moral: Motherly love transcends biological relations"
+          ],
+          "shlokas": [
+            "जननी तुल्यवत्सला — A mother has equal affection (for all children)"
+          ],
+          "meanings": [
+            "जननी = mother",
+            "तुल्य = equal",
+            "वत्सला = affectionate",
+            "पुत्रः = son",
+            "स्नेहः = love/affection",
+            "समानम् = equal"
+          ],
+          "importantQuestions": [
+            "जननी तुल्यवत्सला — इत्यस्य आशयं स्पष्टीकुरुत।",
+            "माता सर्वेषां पुत्राणां कथं पालनं करोति?",
+            "अस्मिन् पाठे मातुः स्नेहस्य किं वर्णनम् अस्ति?"
+          ],
+          "tips": [
+            "Mahabharata se hai — reference important",
+            "Mother's equal love = main theme — har answer mein mention karo",
+            "Biological vs step-children — mother makes no difference"
+          ]
+        },
+        {
+          "id": "sans-sh-ch6",
+          "number": 6,
+          "title": "सुभाषितानि (Good Sayings/Verses)",
+          "topics": [
+            "Collection of wise sayings (Subhashitas) from various Sanskrit texts",
+            "Topics covered: Education, Friendship, Good conduct, Patience, Knowledge",
+            "Each verse has a moral/teaching",
+            "Important literary and moral value"
+          ],
+          "shlokas": [
+            "विद्या ददाति विनयं — Knowledge gives humility",
+            "परोपकारः पुण्याय पापाय परपीडनम् — Helping others is virtue; hurting others is sin",
+            "गुणाः पूजास्थानं — Virtues are worthy of worship, not lineage"
+          ],
+          "meanings": [
+            "सुभाषितम् = good saying/verse",
+            "विद्या = knowledge/education",
+            "विनयः = humility",
+            "परोपकारः = helping others",
+            "पुण्यम् = virtue/merit",
+            "पापम् = sin",
+            "गुणः = quality/virtue"
+          ],
+          "importantQuestions": [
+            "विद्या ददाति विनयं — इत्यस्य भावार्थं लिखत।",
+            "परोपकारः पुण्याय — इति श्लोकस्य व्याख्या कुरुत।",
+            "द्वयोः सुभाषितयोः भावार्थं हिन्दीभाषायां लिखत।"
+          ],
+          "tips": [
+            "Har shloka ka Hindi meaning yaad karo — translation questions zaroor aate hain",
+            "Sabse famous: विद्या ददाति विनयं aur परोपकारः पुण्याय — yeh dono must learn",
+            "Board mein 2-3 shlokas ka bhavaarth poochha jaata hai"
+          ]
+        },
+        {
+          "id": "sans-sh-ch7",
+          "number": 7,
+          "title": "सौहार्दं प्रकृतेः शोभा (Harmony is Nature's Beauty)",
+          "topics": [
+            "Theme: Harmony and unity in nature",
+            "All elements of nature coexist beautifully",
+            "Humans should learn from nature's harmony",
+            "Importance of coexistence and peace"
+          ],
+          "shlokas": [
+            "सौहार्दं प्रकृतेः शोभा — Harmony/friendship is the beauty of nature"
+          ],
+          "meanings": [
+            "सौहार्दम् = harmony/friendship",
+            "प्रकृतिः = nature",
+            "शोभा = beauty/glory",
+            "एकता = unity",
+            "शान्तिः = peace",
+            "सहजीवनम् = coexistence"
+          ],
+          "importantQuestions": [
+            "सौहार्दं प्रकृतेः शोभा — इत्यस्य भावार्थं लिखत।",
+            "प्रकृतेः सौन्दर्यं कुत्र दृश्यते?",
+            "मानवाः प्रकृतेः किं शिक्षां गृह्णीयुः?"
+          ],
+          "tips": [
+            "Nature + harmony = core theme — examples do (sun-moon, mountain-river, etc.)",
+            "Board mein short answer aata hai — 2-3 lines mein answer karo",
+            "Sanskrit words use karo answer mein — extra marks milte hain"
+          ]
+        },
+        {
+          "id": "sans-sh-ch8",
+          "number": 8,
+          "title": "विचित्रः साक्षी (The Strange Witness)",
+          "topics": [
+            "Story of a clever judge who uses a strange witness to solve a case",
+            "A creative method of finding truth",
+            "Theme: Justice, cleverness in dispensing justice",
+            "Witty legal story — truth always prevails"
+          ],
+          "meanings": [
+            "विचित्रः = strange/wonderful",
+            "साक्षी = witness",
+            "न्यायः = justice",
+            "सत्यम् = truth",
+            "न्यायाधीशः = judge",
+            "चौरः = thief"
+          ],
+          "importantQuestions": [
+            "विचित्रः साक्षी इति पाठस्य सारांशं लिखत।",
+            "न्यायाधीशः कथं सत्यम् अजानात्?",
+            "अस्मिन् पाठे कः विचित्रः साक्षी आसीत्?"
+          ],
+          "tips": [
+            "Story format hai — sequence of events yaad karo",
+            "Strange witness = unusual method used by judge to extract truth",
+            "Sanskrit mein saaransh likhne ki practice karo — board mein poochha jaata hai"
+          ]
+        },
+        {
+          "id": "sans-sh-ch9",
+          "number": 9,
+          "title": "सूक्तिमौक्तिकम् (Pearls of Wise Sayings)",
+          "topics": [
+            "Collection of wise sayings (Suktiyan) — each a pearl of wisdom",
+            "Topics: Knowledge, character, patience, duty, friendship",
+            "Similar to Subhashitani but different verses",
+            "Each verse stands independently with its own message"
+          ],
+          "shlokas": [
+            "सत्यमेव जयते — Truth alone triumphs",
+            "धर्मो रक्षति रक्षितः — Dharma protects those who protect it",
+            "अहिंसा परमो धर्मः — Non-violence is the highest dharma"
+          ],
+          "meanings": [
+            "सूक्तिः = good saying",
+            "मौक्तिकम् = pearl",
+            "सत्यम् = truth",
+            "धर्मः = duty/righteousness",
+            "अहिंसा = non-violence",
+            "विद्वान् = learned person"
+          ],
+          "importantQuestions": [
+            "सत्यमेव जयते — इत्यस्य भावार्थं लिखत।",
+            "धर्मो रक्षति रक्षितः — इति सूक्तेः आशयं किम्?",
+            "द्वयोः सूक्तयोः अर्थं सोदाहरणं व्याख्यात।"
+          ],
+          "tips": [
+            "Shlokas ko Hindi arth ke saath yaad karo — yeh zaroor poochha jaata hai",
+            "सत्यमेव जयते = India ka national motto — yeh fact mention karo",
+            "Bhavaarth likhne ka practice — 3-4 lines mein clear meaning likho"
+          ]
+        },
+        {
+          "id": "sans-sh-ch10",
+          "number": 10,
+          "title": "भूकम्पविभीषिका (The Horror of Earthquake)",
+          "topics": [
+            "Description of an earthquake and its devastating effects",
+            "Based on real earthquake events — destruction, loss of life",
+            "Role of rescue teams and disaster management",
+            "Rebuilding and showing courage after natural disasters",
+            "Theme: Natural disasters, human resilience, preparedness"
+          ],
+          "meanings": [
+            "भूकम्पः = earthquake",
+            "विभीषिका = horror/terror",
+            "विनाशः = destruction",
+            "भवनानि = buildings",
+            "जनाः = people",
+            "सहायता = help/assistance",
+            "पुनर्निर्माणम् = reconstruction"
+          ],
+          "importantQuestions": [
+            "भूकम्पविभीषिका इति पाठस्य सारांशं लिखत।",
+            "भूकम्पस्य प्रभावाः के सन्ति?",
+            "भूकम्पसमये वयं किं कुर्मः?",
+            "पुनर्निर्माणस्य कार्यं कथं प्रचलति?"
+          ],
+          "tips": [
+            "Recent earthquake examples (Nepal 2015, Gujarat 2001) mention kar sakte ho",
+            "Disaster management steps yaad rakho — Sanskrit mein likhne ki practice",
+            "Vocabulary: भूकम्पः, विनाशः, सहायता, पुनर्निर्माणम् — zaroor yaad karo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sanskrit-vyakaran",
+      "title": "Vyakaran (व्याकरणम्)",
+      "chapters": [
+        {
+          "id": "sans-vyak-sandhi",
+          "number": 1,
+          "title": "सन्धिः (Sandhi — Joining of Letters)",
+          "topics": [
+            "स्वर सन्धिः (Vowel Sandhi): दीर्घ, गुण, वृद्धि, यण्, अयादि",
+            "व्यञ्जन सन्धिः (Consonant Sandhi)",
+            "विसर्ग सन्धिः (Visarga Sandhi)",
+            "Rules for joining and splitting (सन्धि-विच्छेदः)"
+          ],
+          "rules": [
+            "दीर्घ सन्धिः: अ/आ + अ/आ = आ (विद्या + आलयः = विद्यालयः)",
+            "दीर्घ सन्धिः: इ/ई + इ/ई = ई (मुनि + इन्द्रः = मुनीन्द्रः)",
+            "गुण सन्धिः: अ/आ + इ/ई = ए (देव + इन्द्रः = देवेन्द्रः)",
+            "गुण सन्धिः: अ/आ + उ/ऊ = ओ (महा + उत्सवः = महोत्सवः)",
+            "वृद्धि सन्धिः: अ/आ + ए/ऐ = ऐ (एक + एकम् = एकैकम्)",
+            "यण् सन्धिः: इ/ई + other vowel = य् (यदि + अपि = यद्यपि)",
+            "यण् सन्धिः: उ/ऊ + other vowel = व् (सु + आगतम् = स्वागतम्)",
+            "विसर्ग: visarga + voiced consonant = ओ/र (मनः + रथः = मनोरथः)"
+          ],
+          "examples": [
+            "दीर्घ: विद्या + आलयः = विद्यालयः",
+            "दीर्घ: गिरि + ईशः = गिरीशः",
+            "गुण: सुर + इन्द्रः = सुरेन्द्रः",
+            "गुण: महा + उदयः = महोदयः",
+            "वृद्धि: सदा + एव = सदैव",
+            "यण्: अति + अधिकः = अत्यधिकः",
+            "यण्: अनु + अयः = अन्वयः",
+            "विसर्ग: मनः + हरः = मनोहरः"
+          ],
+          "tips": [
+            "Sandhi mein pehle identify karo: Swar, Vyanjan, ya Visarga sandhi?",
+            "Vicchedh (splitting) practice zyada karo — board mein vicchedh zyada poochha jaata hai",
+            "दीर्घ = same type vowels (अ+अ, इ+इ, उ+उ); गुण = अ + इ/उ/ऋ; वृद्धि = अ + ए/ओ",
+            "Common sandhi pairs roz 10 practice karo — exam mein fast hoga"
+          ]
+        },
+        {
+          "id": "sans-vyak-shabdroop",
+          "number": 2,
+          "title": "शब्दरूपाणि (Shabd Roop — Declensions)",
+          "topics": [
+            "Declension tables for important words",
+            "7 Vibhaktis (cases) × 3 Vachans (numbers) = 21 forms per word",
+            "Important words: बालक, लता, फल, नदी, मुनि, मधु, राम, पुष्प, वारि",
+            "Vibhaktis: प्रथमा, द्वितीया, तृतीया, चतुर्थी, पञ्चमी, षष्ठी, सप्तमी + सम्बोधन"
+          ],
+          "rules": [
+            "प्रथमा (Nominative) = Subject — कर्ता",
+            "द्वितीया (Accusative) = Object — कर्म",
+            "तृतीया (Instrumental) = By/With — करण",
+            "चतुर्थी (Dative) = For/To — सम्प्रदान",
+            "पञ्चमी (Ablative) = From — अपादान",
+            "षष्ठी (Genitive) = Of — सम्बन्ध",
+            "सप्तमी (Locative) = In/On/At — अधिकरण",
+            "सम्बोधन = Addressing — हे/भो"
+          ],
+          "examples": [
+            "बालक (अकारान्त पुल्लिङ्ग): बालकः, बालकौ, बालकाः | बालकम्, बालकौ, बालकान् | बालकेन, बालकाभ्याम्, बालकैः...",
+            "लता (आकारान्त स्त्रीलिङ्ग): लता, लते, लताः | लताम्, लते, लताः...",
+            "फल (अकारान्त नपुंसकलिङ्ग): फलम्, फले, फलानि | फलम्, फले, फलानि..."
+          ],
+          "tips": [
+            "बालक, लता, फल — yeh teen sabse important hain, inhe ratta maaro",
+            "तृतीया mein 'एन' aata hai (बालकेन, लतया, फलेन)",
+            "Vibhakti identify karne ke liye: sentence mein preposition dekho (se/ke liye/mein/ka etc.)",
+            "Daily 2 shabdroop likhne ki aadat banao — haath aa jayega exam mein"
+          ]
+        },
+        {
+          "id": "sans-vyak-dhaturoop",
+          "number": 3,
+          "title": "धातुरूपाणि (Dhatu Roop — Verb Conjugations)",
+          "topics": [
+            "Conjugation in 5 Lakars (tenses/moods)",
+            "लट् लकार (Present), लृट् लकार (Future), लङ् लकार (Past/Imperfect)",
+            "लोट् लकार (Imperative), विधिलिङ् लकार (Potential/Should)",
+            "Important Dhatus: गम् (go), पठ् (read), लिख् (write), खाद् (eat), कृ (do), भू (be), दा (give), नी (lead)",
+            "3 Purushas × 3 Vachans = 9 forms per Lakar"
+          ],
+          "rules": [
+            "लट् लकार (Present): गच्छति, गच्छतः, गच्छन्ति (प्रथम पुरुष)",
+            "लट् लकार: गच्छसि, गच्छथः, गच्छथ (मध्यम पुरुष)",
+            "लट् लकार: गच्छामि, गच्छावः, गच्छामः (उत्तम पुरुष)",
+            "लृट् लकार (Future): गमिष्यति, गमिष्यतः, गमिष्यन्ति",
+            "लङ् लकार (Past): अगच्छत्, अगच्छताम्, अगच्छन्",
+            "लोट् लकार (Imperative): गच्छतु, गच्छताम्, गच्छन्तु",
+            "विधिलिङ् लकार (Should): गच्छेत्, गच्छेताम्, गच्छेयुः"
+          ],
+          "examples": [
+            "गम् (go): लट् — गच्छति; लृट् — गमिष्यति; लङ् — अगच्छत्",
+            "पठ् (read): लट् — पठति; लृट् — पठिष्यति; लङ् — अपठत्",
+            "लिख् (write): लट् — लिखति; लृट् — लेखिष्यति; लङ् — अलिखत्",
+            "कृ (do): लट् — करोति; लृट् — करिष्यति; लङ् — अकरोत्",
+            "भू (be): लट् — भवति; लृट् — भविष्यति; लङ् — अभवत्"
+          ],
+          "tips": [
+            "5 Lakars ka system: लट्=Present, लृट्=Future, लङ्=Past, लोट्=Command, विधिलिङ्=Should",
+            "गम् dhatu sabse important — isko 5 lakars mein ratta maaro pehle",
+            "लङ् लकार mein 'अ' prefix aata hai (अगच्छत्, अपठत्) — yeh identify karne ka easy way",
+            "लोट् = order/request, विधिलिङ् = suggestion/should — dono mein 'एत्' sound common",
+            "Board mein 2-3 dhatus ke specific lakar zaroor poochhe jaate hain"
+          ]
+        },
+        {
+          "id": "sans-vyak-samasa",
+          "number": 4,
+          "title": "समासः (Samasa — Compound Words)",
+          "topics": [
+            "Types of Samasa (compounds) in Sanskrit",
+            "अव्ययीभाव, तत्पुरुष, कर्मधारय, द्विगु, बहुव्रीहि, द्वन्द्व",
+            "Samasa-Vigrahah (splitting compound words)",
+            "Identification and formation"
+          ],
+          "rules": [
+            "अव्ययीभाव: First word important (अव्यय) — यथाशक्ति = शक्ति अनुसारम् (as per ability)",
+            "तत्पुरुष: Second word important — राजपुत्रः = राज्ञः पुत्रः (king's son)",
+            "कर्मधारय: Adjective + Noun — नीलकमलम् = नीलं कमलम् (blue lotus)",
+            "द्विगु: Number + Noun — त्रिलोकी = त्रयाणां लोकानां समाहारः (three worlds)",
+            "बहुव्रीहि: Neither word main, describes a third — चतुर्भुजः = चत्वारि भुजाः यस्य सः (Vishnu)",
+            "द्वन्द्व: Both words equal — रामलक्ष्मणौ = रामः च लक्ष्मणः च (Ram and Lakshman)"
+          ],
+          "examples": [
+            "अव्ययीभाव: प्रतिदिनम् = दिने दिने (daily)",
+            "तत्पुरुष: विद्यालयः = विद्यायाः आलयः (house of knowledge)",
+            "कर्मधारय: महापुरुषः = महान् पुरुषः (great man)",
+            "द्विगु: पञ्चवटी = पञ्चानां वटानां समाहारः (five banyan trees)",
+            "बहुव्रीहि: दशाननः = दश आनानि यस्य सः (Ravan — one with 10 faces)",
+            "द्वन्द्व: माता-पितरौ = माता च पिता च (mother and father)"
+          ],
+          "tips": [
+            "Trick: अव्ययी=1st word, तत्पुरुष=2nd word, बहुव्रीहि=3rd word (outside) important",
+            "कर्मधारय mein विशेषण-विशेष्य (adj-noun) hota hai — 'mahaan purush' type",
+            "द्वन्द्व = 'और/and' se jude hue — easy to identify (X aur Y)",
+            "Vigraha (splitting) practice zyada karo — exam mein wahi poochha jaata hai"
+          ]
+        },
+        {
+          "id": "sans-vyak-karak",
+          "number": 5,
+          "title": "कारकम् (Karak — Case Relations)",
+          "topics": [
+            "8 Karaks (case relations) with their Vibhaktis",
+            "कर्ता, कर्म, करण, सम्प्रदान, अपादान, सम्बन्ध, अधिकरण, सम्बोधन",
+            "How to identify Karak in a sentence",
+            "Karak and Vibhakti relationship"
+          ],
+          "rules": [
+            "कर्ता (Subject) → प्रथमा विभक्तिः — 'रामः गच्छति' (Ram goes)",
+            "कर्म (Object) → द्वितीया विभक्तिः — 'रामः ग्रन्थं पठति' (Ram reads book)",
+            "करण (Instrument) → तृतीया विभक्तिः — 'बालकः लेखन्या लिखति' (Boy writes with pen)",
+            "सम्प्रदान (For whom) → चतुर्थी विभक्तिः — 'माता पुत्राय फलं ददाति' (Mother gives fruit for/to son)",
+            "अपादान (From where) → पञ्चमी विभक्तिः — 'वृक्षात् पत्रं पतति' (Leaf falls from tree)",
+            "सम्बन्ध (Relation) → षष्ठी विभक्तिः — 'रामस्य पुस्तकम्' (Ram's book)",
+            "अधिकरण (Location) → सप्तमी विभक्तिः — 'गृहे बालकः अस्ति' (Boy is in house)",
+            "सम्बोधन (Addressing) → सम्बोधन — 'हे राम!' (O Ram!)"
+          ],
+          "examples": [
+            "बालकः विद्यालयं गच्छति — बालकः = कर्ता (प्रथमा), विद्यालयम् = कर्म (द्वितीया)",
+            "सः हस्तेन लिखति — हस्तेन = करण (तृतीया)",
+            "पिता पुत्राय धनं ददाति — पुत्राय = सम्प्रदान (चतुर्थी)",
+            "वृक्षात् फलं पतति — वृक्षात् = अपादान (पञ्चमी)"
+          ],
+          "tips": [
+            "Hindi mein translate karo: ne=कर्ता, ko=कर्म, se/dwara=करण, ke liye=सम्प्रदान, se(alag hona)=अपादान, ka/ki/ke=सम्बन्ध, mein/par=अधिकरण",
+            "करण (by/with) aur अपादान (from) mein difference: करण=sahayata, अपादान=door jaana",
+            "Board mein sentence diya jaata hai — karak identify karna hota hai, daily practice karo"
+          ]
+        },
+        {
+          "id": "sans-vyak-anuvad",
+          "number": 6,
+          "title": "अनुवादः (Translation — Hindi to Sanskrit)",
+          "topics": [
+            "Translation from Hindi sentences to Sanskrit",
+            "Key rules: Subject-Object-Verb order in Sanskrit (SOV)",
+            "Correct use of Vibhakti, Vachan, Ling, Lakar",
+            "Common sentence patterns for practice"
+          ],
+          "rules": [
+            "Sanskrit sentence structure: कर्ता + कर्म + क्रिया (Subject + Object + Verb)",
+            "Verb agrees with Subject in पुरुष (person) and वचन (number)",
+            "Match लिङ्ग (gender): बालकः (M), बालिका (F), फलम् (N)",
+            "Use correct विभक्ति based on कारक",
+            "Time indicator → choose correct लकार: अद्य=लट्, श्वः=लृट्, ह्यः=लङ्"
+          ],
+          "examples": [
+            "राम विद्यालय जाता है → रामः विद्यालयं गच्छति।",
+            "लड़कियाँ गीत गाती हैं → बालिकाः गीतं गायन्ति।",
+            "कल वह पुस्तक पढ़ेगा → श्वः सः पुस्तकं पठिष्यति।",
+            "पेड़ से फल गिरता है → वृक्षात् फलं पतति।",
+            "माँ बच्चे को दूध देती है → माता बालकाय दुग्धं ददाति।"
+          ],
+          "tips": [
+            "SOV order: Subject pehle, Object beech mein, Verb last mein — ALWAYS",
+            "Vachan dekho: एकवचन (one), द्विवचन (two), बहुवचन (many) — verb bhi change hota hai",
+            "Time word se lakar decide karo: अद्य/इदानीम्=लट्, श्वः=लृट्, ह्यः=लङ्",
+            "Daily 5 sentences translate karo — board mein 4-5 marks ke hote hain"
+          ]
+        },
+        {
+          "id": "sans-vyak-patralekhan",
+          "number": 7,
+          "title": "पत्रलेखनम् (Letter Writing in Sanskrit)",
+          "topics": [
+            "Formal (औपचारिक) and Informal (अनौपचारिक) Letters in Sanskrit",
+            "Letter format: प्रेषक, दिनाङ्कः, प्रति, विषयः, महोदय/प्रिय मित्र, body, भवदीयः",
+            "Common topics: Leave application, invitation, to friend about exam/festival",
+            "Important Sanskrit phrases for letter writing"
+          ],
+          "rules": [
+            "Format: सेवायाम्/प्रति + Receiver → विषयः → महोदय/प्रिय मित्र → Body → भवदीयः/तव मित्रम् + Name",
+            "Formal: सेवायाम् प्रधानाचार्य महोदयः → विषयः — अवकाशार्थं प्रार्थनापत्रम्",
+            "Informal: प्रिय मित्र [Name] → (Body about exam/festival/invitation) → तव प्रिय मित्रम्",
+            "Date format: दिनाङ्कः — ७ अप्रैल २०२६",
+            "Closing: सधन्यवादम्, भवदीयः शिष्यः/शिष्या [Name]"
+          ],
+          "examples": [
+            "Leave letter: अवकाशार्थं प्रार्थनापत्रम् — महोदय, अहं [Name] दशमकक्षायाः छात्रः/छात्रा...",
+            "To friend: प्रिय मित्र, अत्र कुशलं तत्रास्तु। तव परीक्षा कथम् अभवत्?...",
+            "Invitation: भवन्तं सादरं आमन्त्रयामि मम गृहे उत्सवार्थम्..."
+          ],
+          "tips": [
+            "Format = 2 marks! — सेवायाम्, विषयः, भवदीयः — yeh teen zaroor likho",
+            "Formal letter ka सम्बोधन: महोदय/महोदया; Informal: प्रिय मित्र/सखि",
+            "Body mein simple Sanskrit likho — complicated sentences mat banao",
+            "5-6 standard letters practice karo: leave, invitation, exam result, festival — yeh repeat hote hain"
+          ]
+        }
+      ]
+    }
+  ]
+}
