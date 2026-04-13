@@ -116,7 +116,7 @@ export default function SubjectPage({ subjects }: Props) {
           )}
 
           {/* Chapters Grid */}
-          <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 animate-fade-in">
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 items-start animate-fade-in">
             {currentChapters.map(chapter => (
               <ChapterAccordion
                 key={chapter.id}

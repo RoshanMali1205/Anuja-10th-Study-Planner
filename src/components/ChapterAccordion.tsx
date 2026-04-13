@@ -12,13 +12,13 @@ interface Props {
   subjectId: string
 }
 
-// Light background + badge background per subject
-const subjectStyles: Record<string, { headerBg: string; badgeBg: string; nameColor: string; marksBg: string; marksColor: string }> = {
-  mathematics: { headerBg: '#E3F2FD', badgeBg: '#1565C0', nameColor: '#1565C0', marksBg: '#BBDEFB', marksColor: '#1565C0' },
-  science: { headerBg: '#E8F5E9', badgeBg: '#2E7D32', nameColor: '#2E7D32', marksBg: '#C8E6C9', marksColor: '#2E7D32' },
-  'social-science': { headerBg: '#FBE9E7', badgeBg: '#E65100', nameColor: '#E65100', marksBg: '#FFCCBC', marksColor: '#E65100' },
-  english: { headerBg: '#F3E5F5', badgeBg: '#6A1B9A', nameColor: '#6A1B9A', marksBg: '#E1BEE7', marksColor: '#6A1B9A' },
-  sanskrit: { headerBg: '#E0F2F1', badgeBg: '#00695C', nameColor: '#00695C', marksBg: '#B2DFDB', marksColor: '#00695C' },
+// Light + dark background per subject
+const subjectStyles: Record<string, { headerBg: string; headerBgDark: string; badgeBg: string; nameColor: string; nameColorDark: string; marksBg: string; marksBgDark: string; marksColor: string; marksColorDark: string }> = {
+  mathematics: { headerBg: '#E3F2FD', headerBgDark: '#0D47A1', badgeBg: '#1565C0', nameColor: '#1565C0', nameColorDark: '#90CAF9', marksBg: '#BBDEFB', marksBgDark: '#1565C044', marksColor: '#1565C0', marksColorDark: '#90CAF9' },
+  science: { headerBg: '#E8F5E9', headerBgDark: '#1B5E20', badgeBg: '#2E7D32', nameColor: '#2E7D32', nameColorDark: '#A5D6A7', marksBg: '#C8E6C9', marksBgDark: '#2E7D3244', marksColor: '#2E7D32', marksColorDark: '#A5D6A7' },
+  'social-science': { headerBg: '#FBE9E7', headerBgDark: '#BF360C', badgeBg: '#E65100', nameColor: '#E65100', nameColorDark: '#FFAB91', marksBg: '#FFCCBC', marksBgDark: '#E6510044', marksColor: '#E65100', marksColorDark: '#FFAB91' },
+  english: { headerBg: '#F3E5F5', headerBgDark: '#4A148C', badgeBg: '#6A1B9A', nameColor: '#6A1B9A', nameColorDark: '#CE93D8', marksBg: '#E1BEE7', marksBgDark: '#6A1B9A44', marksColor: '#6A1B9A', marksColorDark: '#CE93D8' },
+  sanskrit: { headerBg: '#E0F2F1', headerBgDark: '#004D40', badgeBg: '#00695C', nameColor: '#00695C', nameColorDark: '#80CBC4', marksBg: '#B2DFDB', marksBgDark: '#00695C44', marksColor: '#00695C', marksColorDark: '#80CBC4' },
 }
 
 export default function ChapterAccordion({
@@ -27,6 +27,7 @@ export default function ChapterAccordion({
 }: Props) {
   const [isOpen, setIsOpen] = useState(false)
   const styles = subjectStyles[subjectId] || subjectStyles.mathematics
+  const isDark = typeof document !== 'undefined' && document.documentElement.classList.contains('dark')
 
   return (
     <div className={`chapter-card rounded-xl border overflow-hidden cursor-pointer ${
@@ -38,7 +39,7 @@ export default function ChapterAccordion({
       <div
         onClick={() => setIsOpen(!isOpen)}
         className="flex items-center px-3 py-2.5"
-        style={{ backgroundColor: isCompleted ? '#E8F5E9' : styles.headerBg }}
+        style={{ backgroundColor: isCompleted ? (isDark ? '#1B5E20' : '#E8F5E9') : (isDark ? styles.headerBgDark : styles.headerBg) }}
       >
         {/* Complete toggle */}
         <button
@@ -47,8 +48,8 @@ export default function ChapterAccordion({
           aria-label={isCompleted ? 'Mark incomplete' : 'Mark complete'}
         >
           {isCompleted
-            ? <CheckCircle2 className="w-4 h-4 text-green-600" />
-            : <Circle className="w-4 h-4" style={{ color: styles.badgeBg + '60' }} />
+            ? <CheckCircle2 className="w-4 h-4 text-green-600 dark:text-green-400" />
+            : <Circle className="w-4 h-4" style={{ color: isDark ? styles.nameColorDark + '80' : styles.badgeBg + '60' }} />
           }
         </button>
 
@@ -63,7 +64,7 @@ export default function ChapterAccordion({
         {/* Chapter name */}
         <span
           className={`font-semibold text-[0.83rem] flex-1 leading-snug ${isCompleted ? 'line-through opacity-60' : ''}`}
-          style={{ color: isCompleted ? '#666' : styles.nameColor }}
+          style={{ color: isCompleted ? (isDark ? '#999' : '#666') : (isDark ? styles.nameColorDark : styles.nameColor) }}
         >
           {chapter.title}
         </span>
@@ -72,7 +73,7 @@ export default function ChapterAccordion({
         {chapter.weightage && (
           <span
             className="text-[0.68rem] font-bold px-2 py-0.5 rounded-lg shrink-0 whitespace-nowrap ml-1"
-            style={{ backgroundColor: styles.marksBg, color: styles.marksColor }}
+            style={{ backgroundColor: isDark ? styles.marksBgDark : styles.marksBg, color: isDark ? styles.marksColorDark : styles.marksColor }}
           >
             {chapter.weightage}
           </span>
@@ -141,10 +142,10 @@ export default function ChapterAccordion({
             )}
             {chapter.tips && chapter.tips.length > 0 && (
               <div className="tip-box">
-                <strong className="text-[#E65100] text-xs">💡 Tips:</strong>
+                <strong className="text-[#E65100] dark:text-[#FFB347] text-xs">💡 Tips:</strong>
                 <ul className="mt-1 space-y-0.5">
                   {chapter.tips.map((tip, i) => (
-                    <li key={i} className="text-[0.78rem] text-gray-700 dark:text-gray-300">{tip}</li>
+                    <li key={i} className="text-[0.78rem] text-gray-700 dark:text-gray-200">{tip}</li>
                   ))}
                 </ul>
               </div>

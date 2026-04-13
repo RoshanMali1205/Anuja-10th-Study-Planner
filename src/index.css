@@ -129,8 +129,8 @@ body {
   border-left: 3px solid #FFB347;
 }
 .dark .tip-box {
-  background: rgba(255, 179, 71, 0.1);
-  border-left-color: #FF9244;
+  background: rgba(255, 179, 71, 0.15);
+  border-left-color: #FFB347;
 }
 
 /* Tips section green gradient style */

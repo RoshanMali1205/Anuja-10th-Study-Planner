@@ -1,6 +1,7 @@
 import { useState, useMemo } from 'react'
 import { Link } from 'react-router-dom'
 import { Search, Moon, Sun, X, Bookmark } from 'lucide-react'
+import WeeklyTimetable from './WeeklyTimetable'
 import { useTheme } from '../hooks/useTheme'
 import { useProgress } from '../hooks/useProgress'
 import { useBookmarks } from '../hooks/useBookmarks'
@@ -211,6 +212,9 @@ export default function HomePage({ subjects }: Props) {
             })}
           </div>
         </div>
+
+        {/* Weekly Timetable */}
+        <WeeklyTimetable />
 
         {/* Bookmarked count */}
         {bookmarks.length > 0 && (
