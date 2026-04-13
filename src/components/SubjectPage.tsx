@@ -54,9 +54,9 @@ export default function SubjectPage({ subjects }: Props) {
   return (
     <div className="min-h-screen pb-8">
       {/* Back button bar */}
-      <div className="sticky top-0 z-30 bg-[#FFF8F3]/80 dark:bg-[#1a1a2e]/80 backdrop-blur-lg border-b border-[#FFE0CC] dark:border-gray-800">
+      <div className="sticky top-0 z-30 bg-[#FFF0F5]/80 dark:bg-[#1a1a2e]/80 backdrop-blur-lg border-b border-[#F8BBD0] dark:border-gray-800">
         <div className="max-w-[940px] mx-auto px-3.5 py-2.5 flex items-center gap-2">
-          <Link to="/" className="p-1.5 -ml-1 rounded-lg hover:bg-[#FFE0CC] dark:hover:bg-gray-800 transition-colors">
+          <Link to="/" className="p-1.5 -ml-1 rounded-lg hover:bg-[#FCE4EC] dark:hover:bg-gray-800 transition-colors">
             <ArrowLeft className="w-5 h-5" />
           </Link>
           <span className="font-heading font-bold text-sm truncate">{subject.icon} {subject.name}</span>

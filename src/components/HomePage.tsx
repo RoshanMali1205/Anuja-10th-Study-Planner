@@ -78,22 +78,28 @@ export default function HomePage({ subjects }: Props) {
   return (
     <div className="min-h-screen">
       {/* Hero Section */}
-      <div className="relative overflow-hidden bg-gradient-to-br from-[#FF6B35] to-[#C0392B] px-5 pt-6 pb-10 text-center">
+      <div className="relative overflow-hidden hero-gradient px-5 pt-6 pb-12 text-center">
+        {/* Decorative floating elements */}
         <div className="hero-circle-1" />
         <div className="hero-circle-2" />
+        <span className="hero-float hero-float-1">✨</span>
+        <span className="hero-float hero-float-2">💖</span>
+        <span className="hero-float hero-float-3">⭐</span>
+        <span className="hero-float hero-float-4">🌸</span>
+        <span className="hero-float hero-float-5">✿</span>
         
         {/* Top bar */}
         <div className="relative z-10 flex items-center justify-between mb-4">
           <button
             onClick={() => setShowSearch(true)}
-            className="p-2 rounded-full bg-white/15 hover:bg-white/25 transition-colors"
+            className="p-2 rounded-full bg-white/15 hover:bg-white/25 transition-colors backdrop-blur-sm"
             aria-label="Search"
           >
             <Search className="w-5 h-5 text-white" />
           </button>
           <button
             onClick={toggleTheme}
-            className="p-2 rounded-full bg-white/15 hover:bg-white/25 transition-colors"
+            className="p-2 rounded-full bg-white/15 hover:bg-white/25 transition-colors backdrop-blur-sm"
             aria-label="Toggle theme"
           >
             {isDark ? <Sun className="w-5 h-5 text-white" /> : <Moon className="w-5 h-5 text-white" />}
@@ -101,20 +107,21 @@ export default function HomePage({ subjects }: Props) {
         </div>
 
         <div className="relative z-10">
-          <span className="inline-block bg-white/20 text-white px-4 py-1 rounded-full text-xs font-medium mb-3">
+          <span className="inline-block bg-white/20 backdrop-blur-sm text-white px-4 py-1 rounded-full text-xs font-medium mb-3 border border-white/20">
             🏫 CBSE Class X • 2025-26
           </span>
-          <h1 className="font-heading text-2xl md:text-3xl text-white font-extrabold leading-tight mb-2">
-            Anuja's Study Planner 📚
+          <h1 className="font-heading text-2xl md:text-3xl text-white font-extrabold leading-tight mb-1">
+            Anuja's Study Planner
           </h1>
+          <p className="text-white/70 text-lg mb-1">📚 ✨ 🌸</p>
           <p className="text-white/85 text-sm mb-5">
             Complete Chapter-wise Study Guide • Click any chapter to learn!
           </p>
 
           {/* Score Jump Badge */}
-          <div className="inline-flex items-center gap-3 bg-white/15 border border-white/30 px-5 py-2.5 rounded-full text-white font-heading font-bold text-base">
+          <div className="inline-flex items-center gap-3 bg-white/20 backdrop-blur-sm border border-white/30 px-5 py-2.5 rounded-full text-white font-heading font-bold text-base shadow-lg">
             <span>9th: 60%</span>
-            <span>🚀</span>
+            <span>💫</span>
             <span>10th: 85%</span>
           </div>
         </div>
@@ -124,7 +131,7 @@ export default function HomePage({ subjects }: Props) {
         {/* Stats Section */}
         <div className="grid grid-cols-3 gap-3 -mt-6 relative z-10 mb-6">
           <div className="warm-card rounded-2xl p-4 text-center">
-            <p className="text-3xl font-heading font-bold text-[#FF6B35]">{daysLeft}</p>
+            <p className="text-3xl font-heading font-bold text-[#E91E8C]">{daysLeft}</p>
             <p className="text-xs text-gray-500 mt-0.5">Days to Exam</p>
           </div>
           <div className="warm-card rounded-2xl p-4 text-center">
@@ -141,7 +148,7 @@ export default function HomePage({ subjects }: Props) {
 
         {/* Problems Section */}
         <h2 className="font-heading font-bold text-lg text-[#1A1A2E] dark:text-white flex items-center gap-2 mb-3">
-          <span className="w-8 h-8 rounded-lg bg-[#FFE5D9] flex items-center justify-center text-sm">⚠️</span>
+          <span className="w-8 h-8 rounded-lg bg-[#FCE4EC] flex items-center justify-center text-sm">⚠️</span>
           Common Problems — Solutions
         </h2>
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 mb-4">
@@ -151,7 +158,7 @@ export default function HomePage({ subjects }: Props) {
             { icon: '🧠', problem: "Forget what I've studied", solution: 'Revision: 1 day \u2192 1 week \u2192 1 month' },
             { icon: '💪', problem: 'Hard to maintain confidence', solution: 'Victory Diary + small daily goals' },
           ].map((item, i) => (
-            <div key={i} className="warm-card rounded-xl p-3 flex gap-2 border-l-4 border-l-[#FF6B35]">
+            <div key={i} className="warm-card rounded-xl p-3 flex gap-2 border-l-4 border-l-[#E91E8C]">
               <span className="text-lg shrink-0">{item.icon}</span>
               <div>
                 <p className="text-[0.82rem] font-medium leading-snug">{item.problem}</p>
@@ -160,13 +167,13 @@ export default function HomePage({ subjects }: Props) {
             </div>
           ))}
         </div>
-        <div className="bg-[#FFF3CD] dark:bg-[#3d3520] border border-[#FFD60A] border-l-4 border-l-[#FF9F0A] rounded-xl px-3.5 py-3 text-[0.82rem] mb-6">
-          <strong className="text-[#E65100]">🌟 Remember:</strong> You're already capable! Just <strong>strategy + consistency</strong> — 85% is guaranteed!
+        <div className="bg-[#FCE4EC] dark:bg-[#3d2035] border border-[#F48FB1] border-l-4 border-l-[#E91E8C] rounded-xl px-3.5 py-3 text-[0.82rem] mb-6">
+          <strong className="text-[#C2185B]">🌟 Remember:</strong> You're already capable! Just <strong>strategy + consistency</strong> — 85% is guaranteed!
         </div>
 
         {/* Subject Navigation */}
         <h2 className="font-heading font-bold text-lg text-[#1A1A2E] dark:text-white flex items-center gap-2 mb-3">
-          <span className="w-8 h-8 rounded-lg bg-[#D6EAF8] flex items-center justify-center text-sm">📖</span>
+          <span className="w-8 h-8 rounded-lg bg-[#F3E5F5] flex items-center justify-center text-sm">📖</span>
           Choose Your Subject
         </h2>
         <div className="warm-card rounded-2xl p-3.5 mb-6">
@@ -221,7 +228,7 @@ export default function HomePage({ subjects }: Props) {
           <div className="warm-card rounded-xl p-3 flex items-center gap-2 mb-6">
             <span className="text-lg">⭐</span>
             <span className="text-sm text-gray-600 dark:text-gray-300">
-              You have <strong className="text-[#FF6B35]">{bookmarks.length}</strong> bookmarked chapter{bookmarks.length !== 1 ? 's' : ''}
+              You have <strong className="text-[#E91E8C]">{bookmarks.length}</strong> bookmarked chapter{bookmarks.length !== 1 ? 's' : ''}
             </span>
           </div>
         )}
@@ -274,7 +281,7 @@ export default function HomePage({ subjects }: Props) {
               "Don't know the answer? \u2014 Never leave it blank! Write what you know",
               '3 hours = 15 min reading + 2:15 writing + 15 min revision',
             ].map((tip, i) => (
-              <li key={i} className="flex gap-2 items-start text-[0.84rem] border-b border-dashed border-[#FFE0CC] last:border-0 pb-1.5">
+              <li key={i} className="flex gap-2 items-start text-[0.84rem] border-b border-dashed border-[#F8BBD0] last:border-0 pb-1.5">
                 <span className="text-[0.72rem] mt-0.5">✅</span>
                 <span>{tip}</span>
               </li>
@@ -284,7 +291,7 @@ export default function HomePage({ subjects }: Props) {
 
         {/* Footer */}
         <footer className="text-center text-xs text-gray-400 mt-8">
-          <p>💛 Made with love for Anuja's Board Exam preparation</p>
+          <p>� Made with love for Anuja's Board Exam preparation</p>
           <p className="mt-1"><strong className="text-gray-600 dark:text-gray-300">CBSE Class X • 2025-26</strong></p>
           <p className="mt-1">Mathematics · Science · Social Science · English · Sanskrit</p>
         </footer>
@@ -297,8 +304,8 @@ export default function HomePage({ subjects }: Props) {
             className="warm-card m-4 mt-16 rounded-2xl max-w-lg mx-auto max-h-[70vh] flex flex-col shadow-2xl"
             onClick={e => e.stopPropagation()}
           >
-            <div className="flex items-center gap-3 p-4 border-b border-[#FFE0CC]">
-              <Search className="w-5 h-5 text-[#FF6B35]" />
+            <div className="flex items-center gap-3 p-4 border-b border-[#F8BBD0]">
+              <Search className="w-5 h-5 text-[#E91E8C]" />
               <input
                 type="text"
                 value={query}
@@ -317,9 +324,9 @@ export default function HomePage({ subjects }: Props) {
                   key={r.id}
                   to={`/subject/${r.id.split('-')[0]}`}
                   onClick={() => setShowSearch(false)}
-                  className="flex items-center gap-3 p-3 rounded-xl hover:bg-[#FFF8F3]"
+                  className="flex items-center gap-3 p-3 rounded-xl hover:bg-[#FFF0F5]"
                 >
-                  <Bookmark className="w-4 h-4 text-[#FF6B35] shrink-0" />
+                  <Bookmark className="w-4 h-4 text-[#E91E8C] shrink-0" />
                   <div>
                     <p className="text-sm font-medium">{r.title}</p>
                     <p className="text-xs text-gray-500">{r.subject}{r.section ? ` \u203A ${r.section}` : ''}</p>
